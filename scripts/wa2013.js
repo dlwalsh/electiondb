@@ -55,6 +55,8 @@ parallel({
   saveData(entries, (err) => {
     if (err) {
       console.error(err);
+    } else {
+      console.log(entries.length, 'entries saved');
     }
     process.exit();
   });

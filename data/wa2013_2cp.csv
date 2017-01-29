@@ -1,0 +1,119 @@
+district_name,district_id,candidate_id,candidate_name,surname,first_name,party_code,ballot_order,votes
+Albany,1,4,"WATSON, Peter",WATSON,Peter,ALP,4,10957
+Albany,1,6,"COSH, Trevor",COSH,Trevor,LIB,6,10094
+Alfred Cove,2,9,"NALDER, Dean",NALDER,Dean,LIB,3,15445
+Alfred Cove,2,11,"HOUSTON, David",HOUSTON,David,ALP,5,5544
+Armadale,3,12,"WEBSTER, Katherine",WEBSTER,Katherine,LIB,1,8149
+Armadale,3,13,"BUTI, Tony",BUTI,Tony,ALP,2,12032
+Balcatta,4,17,"HATTON, Chris",HATTON,Chris,LIB,2,11886
+Balcatta,4,21,"PETTIGREW, Janet",PETTIGREW,Janet,ALP,6,8841
+Bassendean,5,23,"BROWN, Bob",BROWN,Bob,LIB,1,9273
+Bassendean,5,26,"KELLY, Dave",KELLY,Dave,ALP,4,11397
+Bateman,6,28,"TAYLOR, Matt",TAYLOR,Matt,LIB,2,13440
+Bateman,6,29,"CHASLAND, Rob",CHASLAND,Rob,ALP,3,6372
+Belmont,7,30,"ROWE, Cassie",ROWE,Cassie,ALP,1,9048
+Belmont,7,33,"GODFREY, Glenys",GODFREY,Glenys,LIB,4,9378
+Bunbury,8,35,"STEELE, Karen",STEELE,Karen,ALP,2,7255
+Bunbury,8,39,"CASTRILLI, John",CASTRILLI,John,LIB,6,12420
+Butler,9,43,"AITKEN, Linda",AITKEN,Linda,LIB,3,11136
+Butler,9,44,"QUIGLEY, John",QUIGLEY,John,ALP,4,11951
+Cannington,10,46,"JACOBS, Jesse",JACOBS,Jesse,LIB,2,9259
+Cannington,10,47,"JOHNSTON, Bill",JOHNSTON,Bill,ALP,3,10054
+Carine,11,49,"WEBB, Sharon",WEBB,Sharon,ALP,1,6839
+Carine,11,52,"KRSTICEVIC, Tony",KRSTICEVIC,Tony,LIB,4,14625
+Central Wheatbelt,12,53,"DAVIES, Mia",DAVIES,Mia,NAT,1,11168
+Central Wheatbelt,12,56,"STRANGE, Stephen",STRANGE,Stephen,LIB,4,8110
+Churchlands,13,59,"ASHFORTH, Patrick",ASHFORTH,Patrick,ALP,1,6756
+Churchlands,13,65,"L'ESTRANGE, Sean",L'ESTRANGE,Sean,LIB,7,15887
+Cockburn,14,66,"LOGAN, Fran",LOGAN,Fran,ALP,1,11993
+Cockburn,14,68,"BARRETT, Don",BARRETT,Don,LIB,3,10178
+Collie-Preston,15,70,"MOTION, Jaimee",MOTION,Jaimee,LIB,1,10052
+Collie-Preston,15,74,"MURRAY, Mick",MURRAY,Mick,ALP,5,10108
+Cottesloe,16,77,"WILLIAMS, Emma",WILLIAMS,Emma,ALP,2,6307
+Cottesloe,16,80,"BARNETT, Colin",BARNETT,Colin,LIB,5,15380
+Darling Range,17,81,"SIMPSON, Tony",SIMPSON,Tony,LIB,1,15178
+Darling Range,17,83,"URBAN, Barry",URBAN,Barry,ALP,3,8065
+Dawesville,18,86,"HAMES, Kim",HAMES,Kim,LIB,2,13088
+Dawesville,18,88,"RIEBELING, Fred",RIEBELING,Fred,ALP,4,7799
+Eyre,19,93,"SMITH, Greg",SMITH,Greg,ALP,3,7078
+Eyre,19,95,"DE GRUSSA, Colin",DE GRUSSA,Colin,NAT,5,7203
+Forrestfield,20,97,"WADDELL, Andrew",WADDELL,Andrew,ALP,2,10185
+Forrestfield,20,99,"MORTON, Nathan",MORTON,Nathan,LIB,4,11076
+Fremantle,21,102,"HANSSEN, Matthew",HANSSEN,Matthew,LIB,2,9094
+Fremantle,21,105,"McGURK, Simone",McGURK,Simone,ALP,5,12488
+Geraldton,22,107,"VAN STYN, Shane",VAN STYN,Shane,NAT,1,7517
+Geraldton,22,109,"BLAYNEY, Ian",BLAYNEY,Ian,LIB,3,11711
+Girrawheen,23,114,"QUIRK, Margaret",QUIRK,Margaret,ALP,3,11557
+Girrawheen,23,116,"HALLIGAN, John",HALLIGAN,John,LIB,5,10501
+Gosnells,24,119,"GOODE, David",GOODE,David,LIB,3,9701
+Gosnells,24,121,"TALLENTIRE, Chris",TALLENTIRE,Chris,ALP,5,10896
+Hillarys,25,123,"JOHNSON, Rob",JOHNSON,Rob,LIB,1,14463
+Hillarys,25,126,"THOMAS, Sam",THOMAS,Sam,ALP,4,6507
+Jandakot,26,127,"ANDRIC, Klara",ANDRIC,Klara,ALP,1,9085
+Jandakot,26,129,"FRANCIS, Joe",FRANCIS,Joe,LIB,3,12584
+Joondalup,27,130,"NORBERGER, Jan",NORBERGER,Jan,LIB,1,10796
+Joondalup,27,132,"O'GORMAN, Tony",O'GORMAN,Tony,ALP,3,9023
+Kalamunda,28,137,"DAY, John",DAY,John,LIB,4,12241
+Kalamunda,28,139,"WAINWRIGHT, Mick",WAINWRIGHT,Mick,ALP,6,8008
+Kalgoorlie,29,141,"DUNCAN, Wendy",DUNCAN,Wendy,NAT,2,5651
+Kalgoorlie,29,143,"PRICE, Melissa",PRICE,Melissa,LIB,4,4379
+Kimberley,30,147,"BLOOM, Jenny",BLOOM,Jenny,LIB,3,5100
+Kimberley,30,149,"FARRER, Josie",FARRER,Josie,ALP,5,6255
+Kingsley,31,151,"MITCHELL, Andrea",MITCHELL,Andrea,LIB,1,14056
+Kingsley,31,154,"CORR, Brian",CORR,Brian,ALP,4,7640
+Kwinana,32,157,"COOK, Roger",COOK,Roger,ALP,3,11783
+Kwinana,32,158,"ADAMS, Carol",ADAMS,Carol,IND,4,10633
+Mandurah,33,160,"SOLIN, Tony",SOLIN,Tony,LIB,1,8465
+Mandurah,33,166,"TEMPLEMAN, David",TEMPLEMAN,David,ALP,7,11550
+Maylands,34,167,"ALBERT, Sylvan",ALBERT,Sylvan,LIB,1,9751
+Maylands,34,170,"BAKER, Lisa",BAKER,Lisa,ALP,4,11020
+Midland,35,171,"PARASILITI, Daniel",PARASILITI,Daniel,LIB,1,10118
+Midland,35,172,"ROBERTS, Michelle",ROBERTS,Michelle,ALP,2,10142
+Mirrabooka,36,177,"CREADO, Andrea",CREADO,Andrea,LIB,3,9195
+Mirrabooka,36,178,"FREEMAN, Janine",FREEMAN,Janine,ALP,4,11045
+Moore,37,182,"LOVE, Shane",LOVE,Shane,NAT,4,11299
+Moore,37,183,"WILKINS, Chris",WILKINS,Chris,LIB,5,8923
+Morley,38,186,"BRITZA, Ian",BRITZA,Ian,LIB,3,10889
+Morley,38,187,"WHITBY, Reece",WHITBY,Reece,ALP,4,9003
+Mount Lawley,39,191,"SUTHERLAND, Michael",SUTHERLAND,Michael,LIB,3,12551
+Mount Lawley,39,193,"KUCERA, Bob",KUCERA,Bob,ALP,5,8594
+Murray-Wellington,40,195,"SCAIFE, David",SCAIFE,David,ALP,2,7653
+Murray-Wellington,40,197,"COWPER, Murray",COWPER,Murray,LIB,4,12476
+Nedlands,41,200,"MARMION, Bill",MARMION,Bill,LIB,1,14622
+Nedlands,41,202,"WALKER, Tony",WALKER,Tony,ALP,3,6529
+North West Central,42,206,"CATANIA, Vince",CATANIA,Vince,NAT,2,4334
+North West Central,42,209,"MAITRE, Tami",MAITRE,Tami,LIB,5,2925
+Ocean Reef,43,210,"JACOB, Albert",JACOB,Albert,LIB,1,14507
+Ocean Reef,43,212,"TAYLOR, Philippa",TAYLOR,Philippa,ALP,3,6527
+Perth,44,215,"HYDE, John",HYDE,John,ALP,1,10045
+Perth,44,216,"EVANGEL, Eleni",EVANGEL,Eleni,LIB,2,11165
+Pilbara,45,223,"GRYLLS, Brendon",GRYLLS,Brendon,NAT,4,7739
+Pilbara,45,224,"HOWLETT, Kelly",HOWLETT,Kelly,ALP,5,4850
+Riverton,46,227,"NAHAN, Mike",NAHAN,Mike,LIB,2,12405
+Riverton,46,228,"BEAZLEY, Hannah",BEAZLEY,Hannah,ALP,3,8553
+Rockingham,47,230,"POLLOCK, Matthew",POLLOCK,Matthew,LIB,1,7641
+Rockingham,47,233,"McGOWAN, Mark",McGOWAN,Mark,ALP,4,13127
+Scarborough,48,235,"LENNIE, Eddie",LENNIE,Eddie,ALP,1,6705
+Scarborough,48,236,"HARVEY, Liza",HARVEY,Liza,LIB,2,13792
+South Perth,49,239,"MCGRATH, John",MCGRATH,John,LIB,1,14494
+South Perth,49,242,"RAFFERTY, Dustin",RAFFERTY,Dustin,ALP,4,5890
+Southern River,50,243,"THOMAS, Susy",THOMAS,Susy,ALP,1,7286
+Southern River,50,245,"ABETZ, Peter",ABETZ,Peter,LIB,3,14777
+Swan Hills,51,248,"RADISICH, Ian",RADISICH,Ian,ALP,2,9958
+Swan Hills,51,250,"ALBAN, Frank",ALBAN,Frank,LIB,4,12610
+Vasse,52,252,"EDMUNDSON, Lee",EDMUNDSON,Lee,ALP,1,5822
+Vasse,52,257,"BUSWELL, Troy",BUSWELL,Troy,LIB,6,14396
+Victoria Park,53,260,"WYATT, Ben",WYATT,Ben,ALP,2,10865
+Victoria Park,53,261,"ZAMAN, Haider",ZAMAN,Haider,LIB,3,9226
+Wagin,54,264,"BLIGHT, Phillip",BLIGHT,Phillip,LIB,3,4390
+Wagin,54,266,"WALDRON, Terry",WALDRON,Terry,NAT,5,14623
+Wanneroo,55,268,"TREBY, Brett",TREBY,Brett,ALP,2,8328
+Wanneroo,55,269,"MILES, Paul",MILES,Paul,LIB,3,13089
+Warnbro,56,272,"PAPALIA, Paul",PAPALIA,Paul,ALP,1,13534
+Warnbro,56,274,"MARKS, Joel",MARKS,Joel,LIB,3,9481
+Warren-Blackwood,57,275,"COLYER, Ray",COLYER,Ray,LIB,1,10393
+Warren-Blackwood,57,280,"REDMAN, Terry",REDMAN,Terry,NAT,6,11769
+West Swan,58,282,"SAFFIOTI, Rita",SAFFIOTI,Rita,ALP,1,11487
+West Swan,58,285,"CHEUNG, Natasha",CHEUNG,Natasha,LIB,4,10644
+Willagee,59,289,"TINLEY, Peter",TINLEY,Peter,ALP,4,12080
+Willagee,59,291,"PIIPPONEN, Samuel",PIIPPONEN,Samuel,LIB,6,7856

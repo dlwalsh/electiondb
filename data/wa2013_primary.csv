@@ -1,0 +1,351 @@
+district_name,district_id,candidate_id,candidate_name,surname,first_name,party_code,ballot_order,votes
+Albany,1,1,"CRITCHISON, Barry",CRITCHISON,Barry,FFP,1,386
+Albany,1,2,"VERMEULEN, Hans",VERMEULEN,Hans,ACP,2,831
+Albany,1,3,"SUTTON, Robert",SUTTON,Robert,NAT,3,4357
+Albany,1,4,"WATSON, Peter",WATSON,Peter,ALP,4,8284
+Albany,1,5,"EVERS, Diane",EVERS,Diane,GRN,5,1137
+Albany,1,6,"COSH, Trevor",COSH,Trevor,LIB,6,6061
+Albany,1,999,Informal,Informal,Informal,INF,999,828
+Alfred Cove,2,7,"GOM, Estelle",GOM,Estelle,NPD,1,161
+Alfred Cove,2,8,"HARMAN, Ros",HARMAN,Ros,GRN,2,1665
+Alfred Cove,2,9,"NALDER, Dean",NALDER,Dean,LIB,3,13523
+Alfred Cove,2,10,"WOOLLARD, Janet",WOOLLARD,Janet,IND,4,2114
+Alfred Cove,2,11,"HOUSTON, David",HOUSTON,David,ALP,5,3532
+Alfred Cove,2,999,Informal,Informal,Informal,INF,999,1047
+Armadale,3,12,"WEBSTER, Katherine",WEBSTER,Katherine,LIB,1,6613
+Armadale,3,13,"BUTI, Tony",BUTI,Tony,ALP,2,10836
+Armadale,3,14,"VAN BURGEL, Jamie",VAN BURGEL,Jamie,ACP,3,1403
+Armadale,3,15,"PAGES-OLIVER, Damon",PAGES-OLIVER,Damon,GRN,4,1333
+Armadale,3,999,Informal,Informal,Informal,INF,999,1562
+Balcatta,4,16,"YOUNG, Sheridan",YOUNG,Sheridan,GRN,1,1705
+Balcatta,4,17,"HATTON, Chris",HATTON,Chris,LIB,2,10756
+Balcatta,4,18,"KIDIMA, Mubarak Kim",KIDIMA,Mubarak Kim,IND,3,122
+Balcatta,4,19,"DODD, Peter",DODD,Peter,ACP,4,322
+Balcatta,4,20,"RUZZI, Joe",RUZZI,Joe,IND,5,234
+Balcatta,4,21,"PETTIGREW, Janet",PETTIGREW,Janet,ALP,6,7341
+Balcatta,4,22,"CROLL, Lesley",CROLL,Lesley,FFP,7,264
+Balcatta,4,999,Informal,Informal,Informal,INF,999,1727
+Bassendean,5,23,"BROWN, Bob",BROWN,Bob,LIB,1,8167
+Bassendean,5,24,"MEWHOR, Paul",MEWHOR,Paul,ACP,2,733
+Bassendean,5,25,"CARTER, Jennie",CARTER,Jennie,GRN,3,2119
+Bassendean,5,26,"KELLY, Dave",KELLY,Dave,ALP,4,9663
+Bassendean,5,999,Informal,Informal,Informal,INF,999,1854
+Bateman,6,27,"LEIGHTON, Rebecca",LEIGHTON,Rebecca,GRN,1,2081
+Bateman,6,28,"TAYLOR, Matt",TAYLOR,Matt,LIB,2,12692
+Bateman,6,29,"CHASLAND, Rob",CHASLAND,Rob,ALP,3,5044
+Bateman,6,999,Informal,Informal,Informal,INF,999,1452
+Belmont,7,30,"ROWE, Cassie",ROWE,Cassie,ALP,1,7827
+Belmont,7,31,"WOLFF, Steve",WOLFF,Steve,GRN,2,1504
+Belmont,7,32,"KLOMP, Steve",KLOMP,Steve,ACP,3,421
+Belmont,7,33,"GODFREY, Glenys",GODFREY,Glenys,LIB,4,8679
+Belmont,7,999,Informal,Informal,Informal,INF,999,1317
+Bunbury,8,34,"CANEDOLI, Lui Alfa",CANEDOLI,Lui Alfa,IND,1,285
+Bunbury,8,35,"STEELE, Karen",STEELE,Karen,ALP,2,5595
+Bunbury,8,36,"DABROWSKI, Edward",DABROWSKI,Edward,ACP,3,243
+Bunbury,8,37,"HUTCHINS, Mitchella",HUTCHINS,Mitchella,GRN,4,1250
+Bunbury,8,38,"ROSE, Linda",ROSE,Linda,FFP,5,374
+Bunbury,8,39,"CASTRILLI, John",CASTRILLI,John,LIB,6,10375
+Bunbury,8,40,"FORSYTH, James",FORSYTH,James,NAT,7,1562
+Bunbury,8,999,Informal,Informal,Informal,INF,999,1320
+Butler,9,41,"WEBSTER, Thomas",WEBSTER,Thomas,GRN,1,2067
+Butler,9,42,"LEEDER, Steven",LEEDER,Steven,ACP,2,529
+Butler,9,43,"AITKEN, Linda",AITKEN,Linda,LIB,3,9991
+Butler,9,44,"QUIGLEY, John",QUIGLEY,John,ALP,4,10510
+Butler,9,999,Informal,Informal,Informal,INF,999,1699
+Cannington,10,45,"CUNNINGHAM, Christine",CUNNINGHAM,Christine,GRN,1,1850
+Cannington,10,46,"JACOBS, Jesse",JACOBS,Jesse,LIB,2,8310
+Cannington,10,47,"JOHNSTON, Bill",JOHNSTON,Bill,ALP,3,8457
+Cannington,10,48,"HARRINGTON, Mark",HARRINGTON,Mark,IND,4,702
+Cannington,10,999,Informal,Informal,Informal,INF,999,1536
+Carine,11,49,"WEBB, Sharon",WEBB,Sharon,ALP,1,5278
+Carine,11,50,"CATTANEO, Nathalie",CATTANEO,Nathalie,GRN,2,2024
+Carine,11,51,"DAVEY, Rick",DAVEY,Rick,ACP,3,581
+Carine,11,52,"KRSTICEVIC, Tony",KRSTICEVIC,Tony,LIB,4,13582
+Carine,11,999,Informal,Informal,Informal,INF,999,959
+Central Wheatbelt,12,53,"DAVIES, Mia",DAVIES,Mia,NAT,1,8414
+Central Wheatbelt,12,54,"WALTERS, Tricia",WALTERS,Tricia,GRN,2,637
+Central Wheatbelt,12,55,"STURMAN, Gerald",STURMAN,Gerald,IND,3,474
+Central Wheatbelt,12,56,"STRANGE, Stephen",STRANGE,Stephen,LIB,4,6088
+Central Wheatbelt,12,57,"ADAIR, Bob",ADAIR,Bob,ACP,5,328
+Central Wheatbelt,12,58,"WATTERS, John",WATTERS,John,ALP,6,3375
+Central Wheatbelt,12,999,Informal,Informal,Informal,INF,999,1076
+Churchlands,13,59,"ASHFORTH, Patrick",ASHFORTH,Patrick,ALP,1,3543
+Churchlands,13,60,"MONKS, Wayne",MONKS,Wayne,IND,2,1828
+Churchlands,13,61,"BIVOLTSIS, Jim",BIVOLTSIS,Jim,IND,3,783
+Churchlands,13,62,"RE, Elizabeth",RE,Elizabeth,IND,4,1072
+Churchlands,13,63,"PIDGEON, Cameron",PIDGEON,Cameron,GRN,5,1740
+Churchlands,13,64,"SEYMOUR, Pat",SEYMOUR,Pat,ACP,6,327
+Churchlands,13,65,"L'ESTRANGE, Sean",L'ESTRANGE,Sean,LIB,7,13366
+Churchlands,13,999,Informal,Informal,Informal,INF,999,829
+Cockburn,14,66,"LOGAN, Fran",LOGAN,Fran,ALP,1,10606
+Cockburn,14,67,"ROSBOROUGH, Derek",ROSBOROUGH,Derek,IND,2,577
+Cockburn,14,68,"BARRETT, Don",BARRETT,Don,LIB,3,9327
+Cockburn,14,69,"HEWITT, Shannon",HEWITT,Shannon,GRN,4,1681
+Cockburn,14,999,Informal,Informal,Informal,INF,999,1314
+Collie-Preston,15,70,"MOTION, Jaimee",MOTION,Jaimee,LIB,1,8250
+Collie-Preston,15,71,"KNOP, Clinton",KNOP,Clinton,NPD,2,158
+Collie-Preston,15,72,"HARPER, Alice",HARPER,Alice,FFP,3,529
+Collie-Preston,15,73,"HUTCHINSON, Peter",HUTCHINSON,Peter,NAT,4,1513
+Collie-Preston,15,74,"MURRAY, Mick",MURRAY,Mick,ALP,5,8708
+Collie-Preston,15,75,"GIBSON, Kingsley",GIBSON,Kingsley,GRN,6,1010
+Collie-Preston,15,999,Informal,Informal,Informal,INF,999,1069
+Cottesloe,16,76,"BOLAND, Greg",BOLAND,Greg,GRN,1,2246
+Cottesloe,16,77,"WILLIAMS, Emma",WILLIAMS,Emma,ALP,2,2650
+Cottesloe,16,78,"MORGAN, Kevin",MORGAN,Kevin,IND,3,2482
+Cottesloe,16,79,"FEARIS, Neil",FEARIS,Neil,ACP,4,281
+Cottesloe,16,80,"BARNETT, Colin",BARNETT,Colin,LIB,5,14036
+Cottesloe,16,999,Informal,Informal,Informal,INF,999,781
+Darling Range,17,81,"SIMPSON, Tony",SIMPSON,Tony,LIB,1,13454
+Darling Range,17,82,"HARDIE, Denise",HARDIE,Denise,GRN,2,2144
+Darling Range,17,83,"URBAN, Barry",URBAN,Barry,ALP,3,6494
+Darling Range,17,84,"GOIRAN, Madeleine",GOIRAN,Madeleine,ACP,4,1154
+Darling Range,17,999,Informal,Informal,Informal,INF,999,1539
+Dawesville,18,85,"BUTLER, Bryn",BUTLER,Bryn,NAT,1,488
+Dawesville,18,86,"HAMES, Kim",HAMES,Kim,LIB,2,11700
+Dawesville,18,87,"BAKER, Brenton",BAKER,Brenton,FFP,3,357
+Dawesville,18,88,"RIEBELING, Fred",RIEBELING,Fred,ALP,4,6050
+Dawesville,18,89,"SCHUMACHER, Dave",SCHUMACHER,Dave,IND,5,1236
+Dawesville,18,90,"ARMSTRONG, Patricia",ARMSTRONG,Patricia,GRN,6,1068
+Dawesville,18,999,Informal,Informal,Informal,INF,999,1297
+Eyre,19,91,"JOHNSON, Giorgia",JOHNSON,Giorgia,GRN,1,715
+Eyre,19,92,"HILTON, Brett",HILTON,Brett,ACP,2,366
+Eyre,19,93,"SMITH, Greg",SMITH,Greg,ALP,3,2082
+Eyre,19,94,"JACOBS, Graham",JACOBS,Graham,LIB,4,5870
+Eyre,19,95,"DE GRUSSA, Colin",DE GRUSSA,Colin,NAT,5,5258
+Eyre,19,999,Informal,Informal,Informal,INF,999,816
+Forrestfield,20,96,"MUNRO, Mike",MUNRO,Mike,FFP,1,678
+Forrestfield,20,97,"WADDELL, Andrew",WADDELL,Andrew,ALP,2,8656
+Forrestfield,20,98,"EIKELBOOM, Troy",EIKELBOOM,Troy,ACP,3,633
+Forrestfield,20,99,"MORTON, Nathan",MORTON,Nathan,LIB,4,9866
+Forrestfield,20,100,"BURRELL, Peter",BURRELL,Peter,GRN,5,1434
+Forrestfield,20,999,Informal,Informal,Informal,INF,999,1600
+Fremantle,21,101,"SULLIVAN, Andrew",SULLIVAN,Andrew,GRN,1,3925
+Fremantle,21,102,"HANSSEN, Matthew",HANSSEN,Matthew,LIB,2,7760
+Fremantle,21,103,"CARLES, Adele",CARLES,Adele,IND,3,1186
+Fremantle,21,104,"ANDREW, Sanna",ANDREW,Sanna,NPD,4,252
+Fremantle,21,105,"McGURK, Simone",McGURK,Simone,ALP,5,8249
+Fremantle,21,106,"TER HORST, Jan",TER HORST,Jan,IND,6,225
+Fremantle,21,999,Informal,Informal,Informal,INF,999,1219
+Geraldton,22,107,"VAN STYN, Shane",VAN STYN,Shane,NAT,1,5081
+Geraldton,22,108,"CONNOLLY, Paul",CONNOLLY,Paul,GRN,2,1239
+Geraldton,22,109,"BLAYNEY, Ian",BLAYNEY,Ian,LIB,3,9167
+Geraldton,22,110,"BURDETT, Carmen",BURDETT,Carmen,ACP,4,469
+Geraldton,22,111,"MANNION, Kathryn",MANNION,Kathryn,ALP,5,3299
+Geraldton,22,999,Informal,Informal,Informal,INF,999,1161
+Girrawheen,23,112,"DAVEY, Mel",DAVEY,Mel,ACP,1,801
+Girrawheen,23,113,"KAFAMI, Saba",KAFAMI,Saba,GRN,2,1289
+Girrawheen,23,114,"QUIRK, Margaret",QUIRK,Margaret,ALP,3,9724
+Girrawheen,23,115,"NGUYEN, Che Tam",NGUYEN,Che Tam,FFP,4,847
+Girrawheen,23,116,"HALLIGAN, John",HALLIGAN,John,LIB,5,9408
+Girrawheen,23,999,Informal,Informal,Informal,INF,999,1824
+Gosnells,24,117,"BUTLER, Debbie",BUTLER,Debbie,IND,1,501
+Gosnells,24,118,"FERNANDEZ, Chris",FERNANDEZ,Chris,IND,2,850
+Gosnells,24,119,"GOODE, David",GOODE,David,LIB,3,8040
+Gosnells,24,120,"STAER, Mark",STAER,Mark,ACP,4,782
+Gosnells,24,121,"TALLENTIRE, Chris",TALLENTIRE,Chris,ALP,5,9237
+Gosnells,24,122,"EDMONDS, Luke",EDMONDS,Luke,GRN,6,1207
+Gosnells,24,999,Informal,Informal,Informal,INF,999,1682
+Hillarys,25,123,"JOHNSON, Rob",JOHNSON,Rob,LIB,1,13484
+Hillarys,25,124,"FORD, Michael",FORD,Michael,ACP,2,545
+Hillarys,25,125,"COLLINS, Adam",COLLINS,Adam,GRN,3,2015
+Hillarys,25,126,"THOMAS, Sam",THOMAS,Sam,ALP,4,4934
+Hillarys,25,999,Informal,Informal,Informal,INF,999,1232
+Jandakot,26,127,"ANDRIC, Klara",ANDRIC,Klara,ALP,1,7834
+Jandakot,26,128,"HAYNES, John",HAYNES,John,GRN,2,1841
+Jandakot,26,129,"FRANCIS, Joe",FRANCIS,Joe,LIB,3,11998
+Jandakot,26,999,Informal,Informal,Informal,INF,999,1351
+Joondalup,27,130,"NORBERGER, Jan",NORBERGER,Jan,LIB,1,9961
+Joondalup,27,131,"McDAVITT, Geoff",McDAVITT,Geoff,ACP,2,503
+Joondalup,27,132,"O'GORMAN, Tony",O'GORMAN,Tony,ALP,3,7519
+Joondalup,27,133,"YOUNG, Brittany",YOUNG,Brittany,GRN,4,1837
+Joondalup,27,999,Informal,Informal,Informal,INF,999,1349
+Kalamunda,28,134,"ROSS, Greg",ROSS,Greg,IND,1,1120
+Kalamunda,28,135,"STALLARD, Geoff",STALLARD,Geoff,IND,2,2780
+Kalamunda,28,136,"WARDEN, Toni",WARDEN,Toni,GRN,3,1658
+Kalamunda,28,137,"DAY, John",DAY,John,LIB,4,9624
+Kalamunda,28,138,"WILLIAMS, Hannah",WILLIAMS,Hannah,ACP,5,612
+Kalamunda,28,139,"WAINWRIGHT, Mick",WAINWRIGHT,Mick,ALP,6,4480
+Kalamunda,28,999,Informal,Informal,Informal,INF,999,1213
+Kalgoorlie,29,140,"WINNER, Terrence",WINNER,Terrence,ALP,1,1928
+Kalgoorlie,29,141,"DUNCAN, Wendy",DUNCAN,Wendy,NAT,2,3717
+Kalgoorlie,29,142,"PATTERSON, Ross",PATTERSON,Ross,ACP,3,202
+Kalgoorlie,29,143,"PRICE, Melissa",PRICE,Melissa,LIB,4,3748
+Kalgoorlie,29,144,"HALL, Tim",HALL,Tim,GRN,5,450
+Kalgoorlie,29,999,Informal,Informal,Informal,INF,999,602
+Kimberley,30,145,"OGILVIE, Rod",OGILVIE,Rod,IND,1,499
+Kimberley,30,146,"SIMONS, Craig",SIMONS,Craig,ACP,2,158
+Kimberley,30,147,"BLOOM, Jenny",BLOOM,Jenny,LIB,3,2924
+Kimberley,30,148,"PUCCI, Michele",PUCCI,Michele,NAT,4,2085
+Kimberley,30,149,"FARRER, Josie",FARRER,Josie,ALP,5,3030
+Kimberley,30,150,"MAHER, Chris",MAHER,Chris,GRN,6,2664
+Kimberley,30,999,Informal,Informal,Informal,INF,999,595
+Kingsley,31,151,"MITCHELL, Andrea",MITCHELL,Andrea,LIB,1,13030
+Kingsley,31,152,"MACTIERNAN, Diana",MACTIERNAN,Diana,GRN,2,1846
+Kingsley,31,153,"MASON, Sophie Ann",MASON,Sophie Ann,ACP,3,510
+Kingsley,31,154,"CORR, Brian",CORR,Brian,ALP,4,6326
+Kingsley,31,999,Informal,Informal,Informal,INF,999,1207
+Kwinana,32,155,"BOSKAMP, Iwan",BOSKAMP,Iwan,GRN,1,1340
+Kwinana,32,156,"JAMIESON, John",JAMIESON,John,LIB,2,5330
+Kwinana,32,157,"COOK, Roger",COOK,Roger,ALP,3,9819
+Kwinana,32,158,"ADAMS, Carol",ADAMS,Carol,IND,4,5406
+Kwinana,32,159,"WARDELL-JOHNSON, Stephen",WARDELL-JOHNSON,Stephen,ACP,5,536
+Kwinana,32,999,Informal,Informal,Informal,INF,999,1633
+Mandurah,33,160,"SOLIN, Tony",SOLIN,Tony,LIB,1,7531
+Mandurah,33,161,"NEWHOUSE, Andrew",NEWHOUSE,Andrew,FFP,2,527
+Mandurah,33,162,"HUGHES, John",HUGHES,John,IND,3,261
+Mandurah,33,163,"BULBECK, Chilla",BULBECK,Chilla,GRN,4,724
+Mandurah,33,164,"BRYANT, Charles",BRYANT,Charles,IND,5,102
+Mandurah,33,165,"ASH, Jake",ASH,Jake,NAT,6,367
+Mandurah,33,166,"TEMPLEMAN, David",TEMPLEMAN,David,ALP,7,10507
+Mandurah,33,999,Informal,Informal,Informal,INF,999,957
+Maylands,34,167,"ALBERT, Sylvan",ALBERT,Sylvan,LIB,1,8893
+Maylands,34,168,"MADDEN, Paul",MADDEN,Paul,ACP,2,533
+Maylands,34,169,"O'NEILL, Dee",O'NEILL,Dee,GRN,3,2554
+Maylands,34,170,"BAKER, Lisa",BAKER,Lisa,ALP,4,8796
+Maylands,34,999,Informal,Informal,Informal,INF,999,1445
+Midland,35,171,"PARASILITI, Daniel",PARASILITI,Daniel,LIB,1,9362
+Midland,35,172,"ROBERTS, Michelle",ROBERTS,Michelle,ALP,2,8489
+Midland,35,173,"MORAN, Isaac",MORAN,Isaac,ACP,3,520
+Midland,35,174,"TANDY, Pippa",TANDY,Pippa,GRN,4,1905
+Midland,35,999,Informal,Informal,Informal,INF,999,1386
+Mirrabooka,36,175,"HOST, Lois",HOST,Lois,ACP,1,954
+Mirrabooka,36,176,"COOPER, Mark William",COOPER,Mark William,GRN,2,1757
+Mirrabooka,36,177,"CREADO, Andrea",CREADO,Andrea,LIB,3,7879
+Mirrabooka,36,178,"FREEMAN, Janine",FREEMAN,Janine,ALP,4,9661
+Mirrabooka,36,999,Informal,Informal,Informal,INF,999,2239
+Moore,37,179,"JOHNSON, Peter",JOHNSON,Peter,ALP,1,3316
+Moore,37,180,"MARGETTS, Dee",MARGETTS,Dee,GRN,2,1131
+Moore,37,181,"PORTER, Wes",PORTER,Wes,ACP,3,386
+Moore,37,182,"LOVE, Shane",LOVE,Shane,NAT,4,7510
+Moore,37,183,"WILKINS, Chris",WILKINS,Chris,LIB,5,7896
+Moore,37,999,Informal,Informal,Informal,INF,999,1059
+Morley,38,184,"PALMER, Sally Irene",PALMER,Sally Irene,GRN,1,1371
+Morley,38,185,"FRASER, Ross",FRASER,Ross,ACP,2,430
+Morley,38,186,"BRITZA, Ian",BRITZA,Ian,LIB,3,9932
+Morley,38,187,"WHITBY, Reece",WHITBY,Reece,ALP,4,7868
+Morley,38,188,"HALLS, Greg",HALLS,Greg,FFP,5,305
+Morley,38,999,Informal,Informal,Informal,INF,999,1851
+Mount Lawley,39,189,"CONNELLY, Paul",CONNELLY,Paul,ACP,1,452
+Mount Lawley,39,190,"CLIFFORD, Tim",CLIFFORD,Tim,GRN,2,2086
+Mount Lawley,39,191,"SUTHERLAND, Michael",SUTHERLAND,Michael,LIB,3,11537
+Mount Lawley,39,192,"BOLT, Dave",BOLT,Dave,FFP,4,187
+Mount Lawley,39,193,"KUCERA, Bob",KUCERA,Bob,ALP,5,6888
+Mount Lawley,39,999,Informal,Informal,Informal,INF,999,1446
+Murray-Wellington,40,194,"ROSE, Michael",ROSE,Michael,NAT,1,2280
+Murray-Wellington,40,195,"SCAIFE, David",SCAIFE,David,ALP,2,5674
+Murray-Wellington,40,196,"FULLER, Deni",FULLER,Deni,GRN,3,1134
+Murray-Wellington,40,197,"COWPER, Murray",COWPER,Murray,LIB,4,10044
+Murray-Wellington,40,198,"HESLINGTON, Norm",HESLINGTON,Norm,IND,5,383
+Murray-Wellington,40,199,"RANKIN, Laurie",RANKIN,Laurie,FFP,6,621
+Murray-Wellington,40,999,Informal,Informal,Informal,INF,999,1507
+Nedlands,41,200,"MARMION, Bill",MARMION,Bill,LIB,1,12351
+Nedlands,41,201,"CRISP, George",CRISP,George,GRN,2,2752
+Nedlands,41,202,"WALKER, Tony",WALKER,Tony,ALP,3,2987
+Nedlands,41,203,"FORDER, Gail",FORDER,Gail,ACP,4,316
+Nedlands,41,204,"HIPKINS, Max",HIPKINS,Max,IND,5,2758
+Nedlands,41,999,Informal,Informal,Informal,INF,999,827
+North West Central,42,205,"SHELTON, Jennifer",SHELTON,Jennifer,ALP,1,1523
+North West Central,42,206,"CATANIA, Vince",CATANIA,Vince,NAT,2,3175
+North West Central,42,207,"EDDISON, Andrew",EDDISON,Andrew,ACP,3,86
+North West Central,42,208,"PIKE, Des",PIKE,Des,GRN,4,364
+North West Central,42,209,"MAITRE, Tami",MAITRE,Tami,LIB,5,2114
+North West Central,42,999,Informal,Informal,Informal,INF,999,454
+Ocean Reef,43,210,"JACOB, Albert",JACOB,Albert,LIB,1,13700
+Ocean Reef,43,211,"KENNEDY, Lyn",KENNEDY,Lyn,ACP,2,301
+Ocean Reef,43,212,"TAYLOR, Philippa",TAYLOR,Philippa,ALP,3,5384
+Ocean Reef,43,213,"CROLL, AlinŽ",CROLL,AlinŽ,FFP,4,243
+Ocean Reef,43,214,"O'BYRNE, Mary",O'BYRNE,Mary,GRN,5,1409
+Ocean Reef,43,999,Informal,Informal,Informal,INF,999,1430
+Perth,44,215,"HYDE, John",HYDE,John,ALP,1,7666
+Perth,44,216,"EVANGEL, Eleni",EVANGEL,Eleni,LIB,2,10318
+Perth,44,217,"HALLETT, Jonathan",HALLETT,Jonathan,GRN,3,2706
+Perth,44,218,"IQBAL, Farida",IQBAL,Farida,NPD,4,198
+Perth,44,219,"HOST, Kevin",HOST,Kevin,ACP,5,324
+Perth,44,999,Informal,Informal,Informal,INF,999,1300
+Pilbara,45,220,"LEVISSIANOS, George",LEVISSIANOS,George,LIB,1,2911
+Pilbara,45,221,"MATHESON, Julie Christine",MATHESON,Julie Christine,GRN,2,628
+Pilbara,45,222,"RICHARDS, Bruce",RICHARDS,Bruce,ACP,3,168
+Pilbara,45,223,"GRYLLS, Brendon",GRYLLS,Brendon,NAT,4,4866
+Pilbara,45,224,"HOWLETT, Kelly",HOWLETT,Kelly,ALP,5,3758
+Pilbara,45,225,"McKENNA, Brent",McKENNA,Brent,IND,6,267
+Pilbara,45,999,Informal,Informal,Informal,INF,999,663
+Riverton,46,226,"ATKINSON, Marcus",ATKINSON,Marcus,GRN,1,1291
+Riverton,46,227,"NAHAN, Mike",NAHAN,Mike,LIB,2,11807
+Riverton,46,228,"BEAZLEY, Hannah",BEAZLEY,Hannah,ALP,3,7388
+Riverton,46,229,"DELLE DONNE, Joe",DELLE DONNE,Joe,IND,4,477
+Riverton,46,999,Informal,Informal,Informal,INF,999,1237
+Rockingham,47,230,"POLLOCK, Matthew",POLLOCK,Matthew,LIB,1,6744
+Rockingham,47,231,"WIESKE, John",WIESKE,John,ACP,2,438
+Rockingham,47,232,"WHITFIELD, Matthew",WHITFIELD,Matthew,IND,3,610
+Rockingham,47,233,"McGOWAN, Mark",McGOWAN,Mark,ALP,4,11716
+Rockingham,47,234,"JECKS, Dawn",JECKS,Dawn,GRN,5,1265
+Rockingham,47,999,Informal,Informal,Informal,INF,999,1341
+Scarborough,48,235,"LENNIE, Eddie",LENNIE,Eddie,ALP,1,5036
+Scarborough,48,236,"HARVEY, Liza",HARVEY,Liza,LIB,2,12681
+Scarborough,48,237,"CULLITY, Judith",CULLITY,Judith,GRN,3,2294
+Scarborough,48,238,"OLSEN, Bruce",OLSEN,Bruce,ACP,4,495
+Scarborough,48,999,Informal,Informal,Informal,INF,999,1156
+South Perth,49,239,"MCGRATH, John",MCGRATH,John,LIB,1,13654
+South Perth,49,240,"MANGINI, David J",MANGINI,David J,IND,2,501
+South Perth,49,241,"BEST, Peter John",BEST,Peter John,GRN,3,1800
+South Perth,49,242,"RAFFERTY, Dustin",RAFFERTY,Dustin,ALP,4,4432
+South Perth,49,999,Informal,Informal,Informal,INF,999,1095
+Southern River,50,243,"THOMAS, Susy",THOMAS,Susy,ALP,1,6421
+Southern River,50,244,"POSTHUMA, Damian",POSTHUMA,Damian,ACP,2,570
+Southern River,50,245,"ABETZ, Peter",ABETZ,Peter,LIB,3,13949
+Southern River,50,246,"GNANAPRAGASAM, Kate",GNANAPRAGASAM,Kate,GRN,4,1176
+Southern River,50,999,Informal,Informal,Informal,INF,999,1464
+Swan Hills,51,247,"LIEB, Dominique",LIEB,Dominique,GRN,1,2028
+Swan Hills,51,248,"RADISICH, Ian",RADISICH,Ian,ALP,2,8159
+Swan Hills,51,249,"TAPLEY, John",TAPLEY,John,ACP,3,481
+Swan Hills,51,250,"ALBAN, Frank",ALBAN,Frank,LIB,4,11446
+Swan Hills,51,251,"SHARRIN, Kyran",SHARRIN,Kyran,FFP,5,460
+Swan Hills,51,999,Informal,Informal,Informal,INF,999,1312
+Vasse,52,252,"EDMUNDSON, Lee",EDMUNDSON,Lee,ALP,1,2501
+Vasse,52,253,"MASTERS, Bernie",MASTERS,Bernie,IND,2,1624
+Vasse,52,254,"NORDEN, Gary",NORDEN,Gary,IND,3,601
+Vasse,52,255,"BALDOCK, Michael",BALDOCK,Michael,GRN,4,2026
+Vasse,52,256,"WISHART, James",WISHART,James,NAT,5,1474
+Vasse,52,257,"BUSWELL, Troy",BUSWELL,Troy,LIB,6,11593
+Vasse,52,258,"WESTBROOK, Julie",WESTBROOK,Julie,FFP,7,412
+Vasse,52,999,Informal,Informal,Informal,INF,999,848
+Victoria Park,53,259,"NEWBOLD, Sarah",NEWBOLD,Sarah,GRN,1,2528
+Victoria Park,53,260,"WYATT, Ben",WYATT,Ben,ALP,2,8978
+Victoria Park,53,261,"ZAMAN, Haider",ZAMAN,Haider,LIB,3,8591
+Victoria Park,53,999,Informal,Informal,Informal,INF,999,1402
+Wagin,54,262,"COLLINS, Shirley",COLLINS,Shirley,GRN,1,849
+Wagin,54,263,"YOUNG, Jacky",YOUNG,Jacky,ACP,2,620
+Wagin,54,264,"BLIGHT, Phillip",BLIGHT,Phillip,LIB,3,3316
+Wagin,54,265,"STOKES, Josh",STOKES,Josh,ALP,4,2122
+Wagin,54,266,"WALDRON, Terry",WALDRON,Terry,NAT,5,12108
+Wagin,54,999,Informal,Informal,Informal,INF,999,869
+Wanneroo,55,267,"PHILLIPS, Rob",PHILLIPS,Rob,GRN,1,1611
+Wanneroo,55,268,"TREBY, Brett",TREBY,Brett,ALP,2,6887
+Wanneroo,55,269,"MILES, Paul",MILES,Paul,LIB,3,11932
+Wanneroo,55,270,"BIRCH, Meg",BIRCH,Meg,ACP,4,550
+Wanneroo,55,271,"RAPP, Moyna",RAPP,Moyna,FFP,5,446
+Wanneroo,55,999,Informal,Informal,Informal,INF,999,1504
+Warnbro,56,272,"PAPALIA, Paul",PAPALIA,Paul,ALP,1,12153
+Warnbro,56,273,"STEELE-JOHN, Jordon",STEELE-JOHN,Jordon,GRN,2,2016
+Warnbro,56,274,"MARKS, Joel",MARKS,Joel,LIB,3,8846
+Warnbro,56,999,Informal,Informal,Informal,INF,999,1800
+Warren-Blackwood,57,275,"COLYER, Ray",COLYER,Ray,LIB,1,6699
+Warren-Blackwood,57,276,"BOSHAMMER, Nerilee",BOSHAMMER,Nerilee,GRN,2,3612
+Warren-Blackwood,57,277,"SCIBILIA, Louie",SCIBILIA,Louie,IND,3,425
+Warren-Blackwood,57,278,"DOUGLASS, Phillip",DOUGLASS,Phillip,FFP,4,403
+Warren-Blackwood,57,279,"THORPE, John",THORPE,John,ALP,5,3331
+Warren-Blackwood,57,280,"REDMAN, Terry",REDMAN,Terry,NAT,6,7439
+Warren-Blackwood,57,281,"REDMAN, K.",REDMAN,K.,NPD,7,273
+Warren-Blackwood,57,999,Informal,Informal,Informal,INF,999,1322
+West Swan,58,282,"SAFFIOTI, Rita",SAFFIOTI,Rita,ALP,1,10617
+West Swan,58,283,"WIESKE, Esther",WIESKE,Esther,ACP,2,557
+West Swan,58,284,"LEAM, Peter",LEAM,Peter,GRN,3,1059
+West Swan,58,285,"CHEUNG, Natasha",CHEUNG,Natasha,LIB,4,9900
+West Swan,58,999,Informal,Informal,Informal,INF,999,1622
+Willagee,59,286,"RYANS-TAYLOR, Alisha",RYANS-TAYLOR,Alisha,GRN,1,2634
+Willagee,59,287,"WAINWRIGHT, Sam",WAINWRIGHT,Sam,NPD,2,397
+Willagee,59,288,"VAN LIESHOUT, Teresa",VAN LIESHOUT,Teresa,IND,3,361
+Willagee,59,289,"TINLEY, Peter",TINLEY,Peter,ALP,4,9280
+Willagee,59,290,"SHORTLAND, Wayne D.",SHORTLAND,Wayne D.,IND,5,181
+Willagee,59,291,"PIIPPONEN, Samuel",PIIPPONEN,Samuel,LIB,6,7097
+Willagee,59,999,Informal,Informal,Informal,INF,999,1431

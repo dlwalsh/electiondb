@@ -6,7 +6,7 @@
 import { parallel } from 'async';
 import { omit, partition, uniq } from 'lodash/fp';
 import parseData from './parseData';
-import saveData from './saveData';
+import saveRemote from './saveRemote';
 
 const keyMap = {
   candidate_name: 'name',
@@ -39,7 +39,7 @@ parallel({
 
     return {
       electionType: 'general',
-      locale: 'WA',
+      realm: 'WA',
       chamber: 'LA',
       parliament: 39,
       date: new Date('2013-03-09'),
@@ -52,12 +52,11 @@ parallel({
     };
   });
 
-  saveData(entries, (err) => {
+  saveRemote(entries, (err) => {
     if (err) {
       console.error(err);
     } else {
-      console.log(entries.length, 'entries saved');
+      console.log('Entries saved to database');
     }
-    process.exit();
   });
 });

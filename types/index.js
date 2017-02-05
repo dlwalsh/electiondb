@@ -6,7 +6,7 @@ import {
   GraphQLString,
 } from 'graphql';
 import ResultType from './ResultType';
-import getResults from '../queries/getResults';
+import query from '../queries/query';
 
 const schema = new GraphQLSchema({
   query: new GraphQLObjectType({
@@ -27,15 +27,15 @@ const schema = new GraphQLSchema({
           electorateId: {
             type: GraphQLString,
           },
-          locale: {
-            type: GraphQLString,
-          },
           parliament: {
             type: GraphQLInt,
           },
+          realm: {
+            type: GraphQLString,
+          },
         },
         resolve(root, args) {
-          return getResults(args);
+          return query('elections', args);
         },
       },
     },

@@ -18,10 +18,10 @@ const ResultType = new GraphQLObjectType({
     type: {
       type: GraphQLString,
     },
-    locale: {
+    realm: {
       type: GraphQLString,
     },
-    zone: {
+    region: {
       type: GraphQLString,
     },
     chamber: {

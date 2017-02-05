@@ -5,7 +5,7 @@ const ResultSchema = new Schema({
   electorateId: String,
   electorateName: String,
   electionType: String,
-  locale: String,
+  realm: String,
   zone: String,
   chamber: String,
   parliament: Number,

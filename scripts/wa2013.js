@@ -27,7 +27,7 @@ parallel({
   const entries = uniq(
     primaryData.map(x => x.electorateName),
   ).map((electorateName) => {
-    const electorateId = electorateName.toUpperCase().replace(/\s+/g, '_');
+    const electorateId = electorateName.toLowerCase().replace(/\s+/g, '_');
     const [[spoilt], primary] = partition(x => x.party === 'INF')(
       primaryData
         .filter(x => x.electorateName === electorateName)
@@ -39,8 +39,8 @@ parallel({
 
     return {
       electionType: 'general',
-      realm: 'WA',
-      chamber: 'LA',
+      realm: 'wa',
+      chamber: 'la',
       parliament: 39,
       date: new Date('2013-03-09'),
       vacancies: 1,

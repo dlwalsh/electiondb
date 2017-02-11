@@ -1,3 +1,5 @@
+/* eslint import/no-extraneous-dependencies: 0 */
+
 import { DynamoDB } from 'aws-sdk';
 import { each } from 'async';
 

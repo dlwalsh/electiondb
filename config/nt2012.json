@@ -1,0 +1,18 @@
+{
+  "primaryDataFile": "data/nt2012_primary.csv",
+  "runoffDataFile": "data/nt2012_2cp.csv",
+  "commonInfo": {
+    "chamber": "la",
+    "date": "2012-08-25",
+    "electionType": "general",
+    "parliament": 12,
+    "realm": "nt",
+    "vacancies": 1
+  },
+  "keyMap": {
+    "name": "Candidate",
+    "electorateName": "Electorate",
+    "party": "Party abbreviation",
+    "votes": "Votes"
+  }
+}

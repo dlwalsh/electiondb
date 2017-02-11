@@ -1,6 +1,6 @@
 {
   "primaryDataFile": "data/wa2013_primary.csv",
-  "runoffDataFile": "data/wa2013_primary.csv",
+  "runoffDataFile": "data/wa2013_2cp.csv",
   "commonInfo": {
     "chamber": "la",
     "date": "2013-03-09",

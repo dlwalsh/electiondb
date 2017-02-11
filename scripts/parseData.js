@@ -6,7 +6,7 @@ import { readFile } from 'fs';
 import { resolve } from 'path';
 
 function parseData(filename, keyMap, callback) {
-  const filepath = resolve(__dirname, '../data', filename);
+  const filepath = resolve(__dirname, '..', filename);
 
   waterfall([
     cb => readFile(filepath, cb),
@@ -18,13 +18,9 @@ function parseData(filename, keyMap, callback) {
     }
 
     const entries = data.map(item => (
-      Object.entries(item).reduce((memo, [property, value]) => {
-        const key = keyMap[property];
-
-        return key ? Object.assign(memo, {
-          [key]: value,
-        }) : memo;
-      }, {})
+      Object.entries(keyMap).reduce((memo, [key, property]) => Object.assign(memo, {
+        [key]: item[property],
+      }), {})
     ));
 
     callback(null, entries);

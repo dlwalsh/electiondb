@@ -1,0 +1,18 @@
+{
+  "primaryDataFile": "data/qld2015_primary.csv",
+  "runoffDataFile": "data/qld2015_2cp.csv",
+  "commonInfo": {
+    "chamber": "la",
+    "date": "2015-01-31",
+    "electionType": "general",
+    "parliament": 55,
+    "realm": "qld",
+    "vacancies": 1
+  },
+  "keyMap": {
+    "name": "candidate_name",
+    "electorateName": "district_name",
+    "party": "party_code",
+    "votes": "votes"
+  }
+}

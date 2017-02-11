@@ -1,0 +1,268 @@
+district_name,district_id,candidate_id,candidate_name,surname,first_name,party_code,ballot_order,votes
+Albert,1,1,"Boothman, Mark",Boothman,Mark,LNP,1,14872
+Albert,1,3,"McMahon, Melissa",McMahon,Melissa,ALP,3,13911
+Albert,1,998,Exhausted,Exhausted,Exhausted,EXH,998,2744
+Algester,2,6,"Shorten, Anthony",Shorten,Anthony,LNP,1,11770
+Algester,2,9,"Enoch, Leeanne",Enoch,Leeanne,ALP,4,15594
+Algester,2,998,Exhausted,Exhausted,Exhausted,EXH,998,1065
+Ashgrove,3,11,"Newman, Campbell",Newman,Campbell,LNP,2,13498
+Ashgrove,3,14,"Jones, Kate",Jones,Kate,ALP,5,16009
+Ashgrove,3,998,Exhausted,Exhausted,Exhausted,EXH,998,577
+Aspley,4,16,"Davis, Tracy",Davis,Tracy,LNP,2,15276
+Aspley,4,17,"Dallaston, Gayle",Dallaston,Gayle,ALP,3,12412
+Aspley,4,998,Exhausted,Exhausted,Exhausted,EXH,998,678
+Barron River,5,20,"Crawford, Craig",Crawford,Craig,ALP,3,16764
+Barron River,5,21,"Trout, Michael",Trout,Michael,LNP,4,14794
+Barron River,5,998,Exhausted,Exhausted,Exhausted,EXH,998,1775
+Beaudesert,6,22,"Hohenhaus, Kay",Hohenhaus,Kay,ALP,1,12138
+Beaudesert,6,25,"Krause, Jon",Krause,Jon,LNP,4,16440
+Beaudesert,6,998,Exhausted,Exhausted,Exhausted,EXH,998,3204
+Brisbane Central,7,29,"Grace, Grace",Grace,Grace,ALP,2,14334
+Brisbane Central,7,31,"Cavallucci, Robert",Cavallucci,Robert,LNP,4,12584
+Brisbane Central,7,998,Exhausted,Exhausted,Exhausted,EXH,998,1884
+Broadwater,8,35,"Toland, Penny",Toland,Penny,ALP,4,10885
+Broadwater,8,37,"Barton, Verity",Barton,Verity,LNP,6,14544
+Broadwater,8,998,Exhausted,Exhausted,Exhausted,EXH,998,3094
+Buderim,9,39,"Hughes, Elaine",Hughes,Elaine,ALP,1,9954
+Buderim,9,42,"Dickson, Steve",Dickson,Steve,LNP,4,16353
+Buderim,9,998,Exhausted,Exhausted,Exhausted,EXH,998,2764
+Bulimba,10,43,"Dillaway, Aaron",Dillaway,Aaron,LNP,1,13077
+Bulimba,10,44,"Farmer, Di",Farmer,Di,ALP,2,16741
+Bulimba,10,998,Exhausted,Exhausted,Exhausted,EXH,998,649
+Bundaberg,11,48,"Dempsey, Jack",Dempsey,Jack,LNP,3,11980
+Bundaberg,11,50,"Donaldson, Leanne",Donaldson,Leanne,ALP,5,12783
+Bundaberg,11,998,Exhausted,Exhausted,Exhausted,EXH,998,2085
+Bundamba,12,51,"Miller, Jo-Ann",Miller,Jo-Ann,ALP,1,22753
+Bundamba,12,53,"Fenton, Stephen",Fenton,Stephen,LNP,3,9101
+Bundamba,12,998,Exhausted,Exhausted,Exhausted,EXH,998,1502
+Burdekin,13,57,"Zyla, Angela",Zyla,Angela,ALP,3,10872
+Burdekin,13,59,"Last, Dale",Last,Dale,LNP,5,12201
+Burdekin,13,998,Exhausted,Exhausted,Exhausted,EXH,998,5103
+Burleigh,14,62,"Hart, Michael",Hart,Michael,LNP,1,14984
+Burleigh,14,66,"Hislop, Gail",Hislop,Gail,ALP,5,11696
+Burleigh,14,998,Exhausted,Exhausted,Exhausted,EXH,998,2853
+Burnett,15,67,"Mustill, Bryan",Mustill,Bryan,ALP,1,11782
+Burnett,15,69,"Bennett, Stephen",Bennett,Stephen,LNP,3,15494
+Burnett,15,998,Exhausted,Exhausted,Exhausted,EXH,998,3310
+Cairns,16,73,"Pyne, Rob",Pyne,Rob,ALP,2,16563
+Cairns,16,76,"King, Gavin",King,Gavin,LNP,5,11774
+Cairns,16,998,Exhausted,Exhausted,Exhausted,EXH,998,1858
+Callide,17,78,"Bjelke-Petersen, John",Bjelke-Petersen,John,PUP,2,10280
+Callide,17,81,"Seeney, Jeff",Seeney,Jeff,LNP,5,13444
+Callide,17,998,Exhausted,Exhausted,Exhausted,EXH,998,3835
+Caloundra,18,85,"Hunt, Jason",Hunt,Jason,ALP,2,12202
+Caloundra,18,86,"McArdle, Mark",McArdle,Mark,LNP,3,14223
+Caloundra,18,998,Exhausted,Exhausted,Exhausted,EXH,998,3279
+Capalaba,19,90,"Davies, Steve",Davies,Steve,LNP,2,12163
+Capalaba,19,91,"Brown, Don",Brown,Don,ALP,3,16160
+Capalaba,19,998,Exhausted,Exhausted,Exhausted,EXH,998,974
+Chatsworth,20,93,"Keene, Paul",Keene,Paul,ALP,2,14285
+Chatsworth,20,95,"Minnikin, Steve",Minnikin,Steve,LNP,4,15864
+Chatsworth,20,998,Exhausted,Exhausted,Exhausted,EXH,998,946
+Clayfield,21,96,"Nicholls, Tim",Nicholls,Tim,LNP,1,16735
+Clayfield,21,97,"Martin, John",Martin,John,ALP,2,12515
+Clayfield,21,998,Exhausted,Exhausted,Exhausted,EXH,998,1213
+Cleveland,22,100,"Huges, Tracey",Huges,Tracey,ALP,1,13599
+Cleveland,22,102,"Robinson, Mark",Robinson,Mark,LNP,3,16929
+Cleveland,22,998,Exhausted,Exhausted,Exhausted,EXH,998,989
+Condamine,23,103,"Huybregts, Brendon",Huybregts,Brendon,ALP,1,9584
+Condamine,23,108,"Weir, Pat",Weir,Pat,LNP,6,18837
+Condamine,23,998,Exhausted,Exhausted,Exhausted,EXH,998,4848
+Cook,24,110,"Kempton, David",Kempton,David,LNP,2,9540
+Cook,24,114,"Gordon, Billy",Gordon,Billy,ALP,6,12527
+Cook,24,998,Exhausted,Exhausted,Exhausted,EXH,998,2973
+Coomera,25,115,"McCreadie, Brett",McCreadie,Brett,ALP,1,12766
+Coomera,25,118,"Crandon, Michael",Crandon,Michael,LNP,4,18018
+Coomera,25,998,Exhausted,Exhausted,Exhausted,EXH,998,2694
+Currumbin,26,120,"Wain, Ashley",Wain,Ashley,ALP,1,11734
+Currumbin,26,124,"Stuckey, Jann",Stuckey,Jann,LNP,5,14475
+Currumbin,26,998,Exhausted,Exhausted,Exhausted,EXH,998,3291
+Dalrymple,27,126,"Knuth, Shane",Knuth,Shane,KAP,1,15987
+Dalrymple,27,127,"Schmidt, Liz",Schmidt,Liz,LNP,2,8571
+Dalrymple,27,998,Exhausted,Exhausted,Exhausted,EXH,998,2193
+Everton,28,131,"Frew, Jeff",Frew,Jeff,ALP,2,13944
+Everton,28,132,"Mander, Tim",Mander,Tim,LNP,3,14965
+Everton,28,998,Exhausted,Exhausted,Exhausted,EXH,998,686
+Ferny Grove,29,135,"Shuttleworth, Dale",Shuttleworth,Dale,LNP,3,13979
+Ferny Grove,29,137,"Furner, Mark",Furner,Mark,ALP,5,14445
+Ferny Grove,29,998,Exhausted,Exhausted,Exhausted,EXH,998,1213
+Gaven,30,138,"Cramp, Sid",Cramp,Sid,LNP,1,13362
+Gaven,30,141,"Riordan, Michael",Riordan,Michael,ALP,4,12214
+Gaven,30,998,Exhausted,Exhausted,Exhausted,EXH,998,4685
+Gladstone,31,146,"Butler, Craig",Butler,Craig,IND,2,10561
+Gladstone,31,148,"Butcher, Glenn",Butcher,Glenn,ALP,4,17152
+Gladstone,31,998,Exhausted,Exhausted,Exhausted,EXH,998,3785
+Glass House,32,149,"Hampstead, Brent",Hampstead,Brent,ALP,1,14074
+Glass House,32,152,"Powell, Andrew",Powell,Andrew,LNP,4,14890
+Glass House,32,998,Exhausted,Exhausted,Exhausted,EXH,998,2431
+Greenslopes,33,153,"Kaye, Ian",Kaye,Ian,LNP,1,12607
+Greenslopes,33,155,"Kelly, Joseph",Kelly,Joseph,ALP,3,14947
+Greenslopes,33,998,Exhausted,Exhausted,Exhausted,EXH,998,914
+Gregory,34,159,"Millar, Lachlan",Millar,Lachlan,LNP,3,12342
+Gregory,34,162,"Thompson, Cheryl",Thompson,Cheryl,ALP,6,7866
+Gregory,34,998,Exhausted,Exhausted,Exhausted,EXH,998,3479
+Gympie,35,163,"Meredith, Stephen",Meredith,Stephen,ALP,1,10394
+Gympie,35,167,"Perrett, Tony",Perrett,Tony,LNP,5,13833
+Gympie,35,998,Exhausted,Exhausted,Exhausted,EXH,998,5712
+Hervey Bay,36,168,"Gubbins, Tony",Gubbins,Tony,ALP,1,12517
+Hervey Bay,36,173,"Sorensen, Ted",Sorensen,Ted,LNP,6,16334
+Hervey Bay,36,998,Exhausted,Exhausted,Exhausted,EXH,998,3084
+Hinchinbrook,37,176,"Cripps, Andrew",Cripps,Andrew,LNP,3,14354
+Hinchinbrook,37,177,"Trecco-Alexander, Jesse",Trecco-Alexander,Jesse,ALP,4,10804
+Hinchinbrook,37,998,Exhausted,Exhausted,Exhausted,EXH,998,4731
+Inala,38,180,"Palaszczuk, Annastacia",Palaszczuk,Annastacia,ALP,1,20271
+Inala,38,182,"Hannant, Adam",Hannant,Adam,LNP,3,6715
+Inala,38,998,Exhausted,Exhausted,Exhausted,EXH,998,643
+Indooroopilly,39,185,"Horacek, Chris",Horacek,Chris,ALP,3,10763
+Indooroopilly,39,186,"Emerson, Scott",Emerson,Scott,LNP,4,14111
+Indooroopilly,39,998,Exhausted,Exhausted,Exhausted,EXH,998,1610
+Ipswich,40,190,"Berry, Ian",Berry,Ian,LNP,2,9581
+Ipswich,40,192,"Howard, Jennifer",Howard,Jennifer,ALP,4,18517
+Ipswich,40,998,Exhausted,Exhausted,Exhausted,EXH,998,1782
+Ipswich West,41,194,"Madden, Jim",Madden,Jim,ALP,1,16376
+Ipswich West,41,195,"Choat, Sean",Choat,Sean,LNP,2,11998
+Ipswich West,41,998,Exhausted,Exhausted,Exhausted,EXH,998,2345
+Kallangur,42,199,"King, Shane",King,Shane,ALP,1,16196
+Kallangur,42,201,"Ruthenberg, Trevor",Ruthenberg,Trevor,LNP,3,12657
+Kallangur,42,998,Exhausted,Exhausted,Exhausted,EXH,998,833
+Kawana,43,203,"Bleijie, Jarrod",Bleijie,Jarrod,LNP,2,16991
+Kawana,43,207,"Moss, Mark",Moss,Mark,ALP,6,11285
+Kawana,43,998,Exhausted,Exhausted,Exhausted,EXH,998,3294
+Keppel,44,208,"Lauga, Brittany",Lauga,Brittany,ALP,1,16465
+Keppel,44,209,"Young, Bruce",Young,Bruce,LNP,2,13583
+Keppel,44,998,Exhausted,Exhausted,Exhausted,EXH,998,2372
+Lockyer,45,214,"Rickuss, Ian",Rickuss,Ian,LNP,2,13230
+Lockyer,45,217,"Hanson, Pauline",Hanson,Pauline,ON,5,13116
+Lockyer,45,998,Exhausted,Exhausted,Exhausted,EXH,998,4066
+Logan,46,222,"Power, Linus",Power,Linus,ALP,4,15346
+Logan,46,223,"Pucci, Michael",Pucci,Michael,LNP,5,9884
+Logan,46,998,Exhausted,Exhausted,Exhausted,EXH,998,1544
+Lytton,47,225,"Pease, Joan",Pease,Joan,ALP,1,16754
+Lytton,47,226,"Symes, Neil",Symes,Neil,LNP,2,11265
+Lytton,47,998,Exhausted,Exhausted,Exhausted,EXH,998,1302
+Mackay,48,233,"Attard, Deon",Attard,Deon,LNP,4,8162
+Mackay,48,234,"Gilbert, Julieanne",Gilbert,Julieanne,ALP,5,13542
+Mackay,48,998,Exhausted,Exhausted,Exhausted,EXH,998,4184
+Mansfield,49,236,"Obeid, Adam",Obeid,Adam,ALP,2,12829
+Mansfield,49,237,"Walker, Ian",Walker,Ian,LNP,3,13113
+Mansfield,49,998,Exhausted,Exhausted,Exhausted,EXH,998,878
+Maroochydore,50,241,"Simpson, Fiona",Simpson,Fiona,LNP,3,16767
+Maroochydore,50,242,"Gissane, Bill",Gissane,Bill,ALP,4,11523
+Maroochydore,50,998,Exhausted,Exhausted,Exhausted,EXH,998,3214
+Maryborough,51,244,"Maddern, Anne",Maddern,Anne,LNP,2,11910
+Maryborough,51,249,"Saunders, Bruce",Saunders,Bruce,ALP,7,12723
+Maryborough,51,998,Exhausted,Exhausted,Exhausted,EXH,998,7119
+Mermaid Beach,52,251,"Pead, Gary",Pead,Gary,ALP,2,9647
+Mermaid Beach,52,253,"Stevens, Ray",Stevens,Ray,LNP,4,16374
+Mermaid Beach,52,998,Exhausted,Exhausted,Exhausted,EXH,998,3180
+Mirani,53,255,"Kerslake, John",Kerslake,John,LNP,1,12534
+Mirani,53,256,"Pearce, Jim",Pearce,Jim,ALP,2,15206
+Mirani,53,998,Exhausted,Exhausted,Exhausted,EXH,998,3098
+Moggill,54,260,"Pink, Louisa",Pink,Louisa,ALP,2,11778
+Moggill,54,261,"Rowan, Christian",Rowan,Christian,LNP,3,16403
+Moggill,54,998,Exhausted,Exhausted,Exhausted,EXH,998,1932
+Morayfield,55,265,"Ryan, Mark",Ryan,Mark,ALP,2,17073
+Morayfield,55,268,"Grimwade, Darren",Grimwade,Darren,LNP,5,10502
+Morayfield,55,998,Exhausted,Exhausted,Exhausted,EXH,998,1948
+Mount Coot-tha,56,271,"Rice, Saxon",Rice,Saxon,LNP,1,12550
+Mount Coot-tha,56,273,"Miles, Steven",Miles,Steven,ALP,3,13920
+Mount Coot-tha,56,998,Exhausted,Exhausted,Exhausted,EXH,998,1016
+Mount Isa,57,275,"Katter, Rob",Katter,Rob,KAP,1,9304
+Mount Isa,57,277,"Wharton, John",Wharton,John,LNP,3,4968
+Mount Isa,57,998,Exhausted,Exhausted,Exhausted,EXH,998,1697
+Mount Ommaney,58,280,"Smith, Tarnya",Smith,Tarnya,LNP,1,13902
+Mount Ommaney,58,283,"Pugh, Jessica",Pugh,Jessica,ALP,4,13776
+Mount Ommaney,58,998,Exhausted,Exhausted,Exhausted,EXH,998,1001
+Mudgeeraba,59,285,"Bates, Ros",Bates,Ros,LNP,2,16151
+Mudgeeraba,59,288,"Leader, Georgi",Leader,Georgi,ALP,5,10337
+Mudgeeraba,59,998,Exhausted,Exhausted,Exhausted,EXH,998,2862
+Mulgrave,60,291,"Pitt, Curtis",Pitt,Curtis,ALP,2,15516
+Mulgrave,60,292,"Quick, Robyn",Quick,Robyn,LNP,3,9205
+Mulgrave,60,998,Exhausted,Exhausted,Exhausted,EXH,998,1927
+Mundingburra,61,295,"Crisafulli, David",Crisafulli,David,LNP,1,11733
+Mundingburra,61,298,"O'Rourke, Coralee",O'Rourke,Coralee,ALP,4,13104
+Mundingburra,61,998,Exhausted,Exhausted,Exhausted,EXH,998,1594
+Murrumba,62,300,"Whiting, Chris",Whiting,Chris,ALP,2,18934
+Murrumba,62,301,"Gulley, Reg",Gulley,Reg,LNP,3,14079
+Murrumba,62,998,Exhausted,Exhausted,Exhausted,EXH,998,1360
+Nanango,63,304,"Frecklington, Deb",Frecklington,Deb,LNP,2,16491
+Nanango,63,307,"Hollens-Riley, Liz",Hollens-Riley,Liz,ALP,5,9617
+Nanango,63,998,Exhausted,Exhausted,Exhausted,EXH,998,5094
+Nicklin,64,311,"Wellington, Peter",Wellington,Peter,IND,3,18058
+Nicklin,64,312,"Trace, Matt",Trace,Matt,LNP,4,9770
+Nicklin,64,998,Exhausted,Exhausted,Exhausted,EXH,998,2402
+Noosa,65,315,"Elmes, Glen",Elmes,Glen,LNP,3,16513
+Noosa,65,316,"Shlegeris, Joe",Shlegeris,Joe,GRN,4,11657
+Noosa,65,998,Exhausted,Exhausted,Exhausted,EXH,998,3603
+Nudgee,66,320,"Woodforth, Jason",Woodforth,Jason,LNP,4,11418
+Nudgee,66,321,"Linard, Leanne",Linard,Leanne,ALP,5,18046
+Nudgee,66,998,Exhausted,Exhausted,Exhausted,EXH,998,1670
+Pine Rivers,67,323,"Boyd, Nikki",Boyd,Nikki,ALP,2,16953
+Pine Rivers,67,324,"Holswich, Seath",Holswich,Seath,LNP,3,12440
+Pine Rivers,67,998,Exhausted,Exhausted,Exhausted,EXH,998,1042
+Pumicestone,68,326,"Williams, Rick",Williams,Rick,ALP,1,16166
+Pumicestone,68,330,"France, Lisa",France,Lisa,LNP,5,14874
+Pumicestone,68,998,Exhausted,Exhausted,Exhausted,EXH,998,2131
+Redcliffe,69,335,"D'Ath, Yvette",D'Ath,Yvette,ALP,4,16602
+Redcliffe,69,337,"Dooley, Kerri-Anne",Dooley,Kerri-Anne,LNP,6,12230
+Redcliffe,69,998,Exhausted,Exhausted,Exhausted,EXH,998,1650
+Redlands,70,338,"McEachan, Matt",McEachan,Matt,LNP,1,14399
+Redlands,70,341,"Kellie, Deb",Kellie,Deb,ALP,4,13167
+Redlands,70,998,Exhausted,Exhausted,Exhausted,EXH,998,2850
+Rockhampton,71,345,"Byrne, Bill",Byrne,Bill,ALP,2,17301
+Rockhampton,71,348,"Luva, Bridie",Luva,Bridie,LNP,5,9787
+Rockhampton,71,998,Exhausted,Exhausted,Exhausted,EXH,998,2096
+Sandgate,72,349,"Millard, Kerry",Millard,Kerry,LNP,1,11462
+Sandgate,72,351,"Hinchliffe, Stirling",Hinchliffe,Stirling,ALP,3,17262
+Sandgate,72,998,Exhausted,Exhausted,Exhausted,EXH,998,1037
+South Brisbane,73,354,"Ward, Fiona",Ward,Fiona,LNP,2,10045
+South Brisbane,73,356,"Trad, Jackie",Trad,Jackie,ALP,4,17697
+South Brisbane,73,998,Exhausted,Exhausted,Exhausted,EXH,998,1184
+Southern Downs,74,358,"Ryan, Louise",Ryan,Louise,ALP,2,8906
+Southern Downs,74,360,"Springborg, Lawrence",Springborg,Lawrence,LNP,4,20008
+Southern Downs,74,998,Exhausted,Exhausted,Exhausted,EXH,998,1784
+Southport,75,361,"Holzberger, Rowan",Holzberger,Rowan,ALP,1,12415
+Southport,75,365,"Molhoek, Rob",Molhoek,Rob,LNP,5,14133
+Southport,75,998,Exhausted,Exhausted,Exhausted,EXH,998,2386
+Springwood,76,369,"Grant, John",Grant,John,LNP,4,13678
+Springwood,76,370,"de Brenni, Mick",de Brenni,Mick,ALP,5,14661
+Springwood,76,998,Exhausted,Exhausted,Exhausted,EXH,998,1475
+Stafford,77,371,"Lynham, Anthony",Lynham,Anthony,ALP,1,16590
+Stafford,77,373,"Andersen, Bob",Andersen,Bob,LNP,3,11249
+Stafford,77,998,Exhausted,Exhausted,Exhausted,EXH,998,876
+Stretton,78,374,"Ostapovitch, Freya",Ostapovitch,Freya,LNP,1,11778
+Stretton,78,375,"Pegg, Duncan",Pegg,Duncan,ALP,2,14386
+Stretton,78,998,Exhausted,Exhausted,Exhausted,EXH,998,2529
+Sunnybank,79,378,"Stewart, Mark",Stewart,Mark,LNP,1,10901
+Sunnybank,79,380,"Russo, Peter",Russo,Peter,ALP,3,14564
+Sunnybank,79,998,Exhausted,Exhausted,Exhausted,EXH,998,904
+Surfers Paradise,80,382,"Langbroek, John-Paul",Langbroek,John-Paul,LNP,2,18405
+Surfers Paradise,80,385,"Blundell-Thornton, Josh",Blundell-Thornton,Josh,ALP,5,8188
+Surfers Paradise,80,998,Exhausted,Exhausted,Exhausted,EXH,998,2182
+Thuringowa,81,388,"Cox, Sam",Cox,Sam,LNP,3,11456
+Thuringowa,81,392,"Harper, Aaron",Harper,Aaron,ALP,7,14312
+Thuringowa,81,998,Exhausted,Exhausted,Exhausted,EXH,998,3553
+Toowoomba North,82,394,"Watts, Trevor",Watts,Trevor,LNP,2,14999
+Toowoomba North,82,397,"Shine, Kerry",Shine,Kerry,ALP,5,14064
+Toowoomba North,82,998,Exhausted,Exhausted,Exhausted,EXH,998,2311
+Toowoomba South,83,400,"McVeigh, John",McVeigh,John,LNP,1,17216
+Toowoomba South,83,401,"Storey, Graham",Storey,Graham,ALP,2,12018
+Toowoomba South,83,998,Exhausted,Exhausted,Exhausted,EXH,998,1221
+Townsville,84,404,"Hathaway, John",Hathaway,John,LNP,2,11360
+Townsville,84,408,"Stewart, Scott",Stewart,Scott,ALP,6,14280
+Townsville,84,998,Exhausted,Exhausted,Exhausted,EXH,998,2485
+Warrego,85,410,"Leahy, Ann",Leahy,Ann,LNP,2,14255
+Warrego,85,412,"O'Brien, Mark",O'Brien,Mark,ALP,4,7531
+Warrego,85,998,Exhausted,Exhausted,Exhausted,EXH,998,2388
+Waterford,86,415,"Latter, Michael",Latter,Michael,LNP,2,10319
+Waterford,86,418,"Fentiman, Shannon",Fentiman,Shannon,ALP,5,17820
+Waterford,86,998,Exhausted,Exhausted,Exhausted,EXH,998,1720
+Whitsunday,87,419,"Costigan, Jason",Costigan,Jason,LNP,1,14565
+Whitsunday,87,420,"Taha, Bronwyn",Taha,Bronwyn,ALP,2,14347
+Whitsunday,87,998,Exhausted,Exhausted,Exhausted,EXH,998,3353
+Woodridge,88,425,"Dick, Cameron",Dick,Cameron,ALP,2,18437
+Woodridge,88,427,"Viliamu, Steve",Viliamu,Steve,LNP,4,5839
+Woodridge,88,998,Exhausted,Exhausted,Exhausted,EXH,998,1833
+Yeerongpilly,89,429,"Abukar, Leila",Abukar,Leila,LNP,1,10551
+Yeerongpilly,89,432,"Bailey, Mark",Bailey,Mark,ALP,4,18202
+Yeerongpilly,89,998,Exhausted,Exhausted,Exhausted,EXH,998,1771

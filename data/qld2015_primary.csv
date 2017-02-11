@@ -1,0 +1,523 @@
+district_name,district_id,candidate_id,candidate_name,surname,first_name,party_code,ballot_order,votes
+Albert,1,1,"Boothman, Mark",Boothman,Mark,LNP,1,13597
+Albert,1,2,"Best, Amanda",Best,Amanda,FFP,2,1434
+Albert,1,3,"McMahon, Melissa",McMahon,Melissa,ALP,3,11145
+Albert,1,4,"Cajdler, Jane",Cajdler,Jane,GRN,4,1923
+Albert,1,5,"Brewster, Blair",Brewster,Blair,PUP,5,3428
+Albert,1,999,Informal,Informal,Informal,INF,999,906
+Algester,2,6,"Shorten, Anthony",Shorten,Anthony,LNP,1,11247
+Algester,2,7,"Wolf, Susan",Wolf,Susan,GRN,2,2056
+Algester,2,8,"Forshaw, Kevin",Forshaw,Kevin,IND,3,1037
+Algester,2,9,"Enoch, Leeanne",Enoch,Leeanne,ALP,4,14089
+Algester,2,999,Informal,Informal,Informal,INF,999,679
+Ashgrove,3,10,"Cicchini, Connie",Cicchini,Connie,IND,1,279
+Ashgrove,3,11,"Newman, Campbell",Newman,Campbell,LNP,2,13125
+Ashgrove,3,12,"Jeremijenko, Peter",Jeremijenko,Peter,IND,3,261
+Ashgrove,3,13,"Hogg, Robert",Hogg,Robert,GRN,4,3047
+Ashgrove,3,14,"Jones, Kate",Jones,Kate,ALP,5,13372
+Ashgrove,3,999,Informal,Informal,Informal,INF,999,313
+Aspley,4,15,"Clothier, Noel",Clothier,Noel,GRN,1,2663
+Aspley,4,16,"Davis, Tracy",Davis,Tracy,LNP,2,14868
+Aspley,4,17,"Dallaston, Gayle",Dallaston,Gayle,ALP,3,10835
+Aspley,4,999,Informal,Informal,Informal,INF,999,497
+Barron River,5,18,"Castley-Wright, Noel",Castley-Wright,Noel,GRN,1,3392
+Barron River,5,19,"Schebella, Andrew",Schebella,Andrew,PUP,2,2937
+Barron River,5,20,"Crawford, Craig",Crawford,Craig,ALP,3,13138
+Barron River,5,21,"Trout, Michael",Trout,Michael,LNP,4,13866
+Barron River,5,999,Informal,Informal,Informal,INF,999,710
+Beaudesert,6,22,"Hohenhaus, Kay",Hohenhaus,Kay,ALP,1,9281
+Beaudesert,6,23,"Ishaac, Adele",Ishaac,Adele,PUP,2,1989
+Beaudesert,6,24,"Agnoletto, Pietro",Agnoletto,Pietro,GRN,3,2613
+Beaudesert,6,25,"Krause, Jon",Krause,Jon,LNP,4,15086
+Beaudesert,6,26,"Fredericks, Jeremy",Fredericks,Jeremy,FFP,5,668
+Beaudesert,6,27,"Bowyer, Robert",Bowyer,Robert,ON,6,2145
+Beaudesert,6,999,Informal,Informal,Informal,INF,999,753
+Brisbane Central,7,28,"Jones, Kai",Jones,Kai,IND,1,815
+Brisbane Central,7,29,"Grace, Grace",Grace,Grace,ALP,2,10590
+Brisbane Central,7,30,"Lovejoy, Kirsten",Lovejoy,Kirsten,GRN,3,5355
+Brisbane Central,7,31,"Cavallucci, Robert",Cavallucci,Robert,LNP,4,12042
+Brisbane Central,7,999,Informal,Informal,Informal,INF,999,481
+Broadwater,8,32,"Kwon, Daniel",Kwon,Daniel,GRN,1,2145
+Broadwater,8,33,"Javanmard, Amin-Reza",Javanmard,Amin-Reza,IND,2,252
+Broadwater,8,34,"Pollock, Phil",Pollock,Phil,ON,3,1061
+Broadwater,8,35,"Toland, Penny",Toland,Penny,ALP,4,8844
+Broadwater,8,36,"Sokolov, George",Sokolov,George,PUP,5,1696
+Broadwater,8,37,"Barton, Verity",Barton,Verity,LNP,6,13537
+Broadwater,8,38,"Ballantyne, Stuart",Ballantyne,Stuart,FFP,7,988
+Broadwater,8,999,Informal,Informal,Informal,INF,999,748
+Buderim,9,39,"Hughes, Elaine",Hughes,Elaine,ALP,1,6627
+Buderim,9,40,"Etheridge, Sue",Etheridge,Sue,GRN,2,3366
+Buderim,9,41,"Lazarus, Tess",Lazarus,Tess,PUP,3,3781
+Buderim,9,42,"Dickson, Steve",Dickson,Steve,LNP,4,15297
+Buderim,9,999,Informal,Informal,Informal,INF,999,625
+Bulimba,10,43,"Dillaway, Aaron",Dillaway,Aaron,LNP,1,12755
+Bulimba,10,44,"Farmer, Di",Farmer,Di,ALP,2,14539
+Bulimba,10,45,"Hale, David",Hale,David,GRN,3,3173
+Bulimba,10,999,Informal,Informal,Informal,INF,999,450
+Bundaberg,11,46,"Anderson, Meg",Anderson,Meg,GRN,1,1112
+Bundaberg,11,47,"Freudenberg, Richard",Freudenberg,Richard,IND,2,746
+Bundaberg,11,48,"Dempsey, Jack",Dempsey,Jack,LNP,3,11128
+Bundaberg,11,49,"Brown, Robert",Brown,Robert,PUP,4,3208
+Bundaberg,11,50,"Donaldson, Leanne",Donaldson,Leanne,ALP,5,10654
+Bundaberg,11,999,Informal,Informal,Informal,INF,999,602
+Bundamba,12,51,"Miller, Jo-Ann",Miller,Jo-Ann,ALP,1,20413
+Bundamba,12,52,"Greenwood, Ava",Greenwood,Ava,GRN,2,2732
+Bundamba,12,53,"Fenton, Stephen",Fenton,Stephen,LNP,3,8204
+Bundamba,12,54,"Harris, Luke",Harris,Luke,FFP,4,2007
+Bundamba,12,999,Informal,Informal,Informal,INF,999,782
+Burdekin,13,55,"Davison, BJ",Davison,BJ,IND,1,2306
+Burdekin,13,56,"Isles, Steven",Isles,Steven,KAP,2,3396
+Burdekin,13,57,"Zyla, Angela",Zyla,Angela,ALP,3,7522
+Burdekin,13,58,"Johnson, Belinda",Johnson,Belinda,ON,4,1305
+Burdekin,13,59,"Last, Dale",Last,Dale,LNP,5,10510
+Burdekin,13,60,"Warland, Jacinta",Warland,Jacinta,PUP,6,2330
+Burdekin,13,61,"Collins, Lindy",Collins,Lindy,GRN,7,807
+Burdekin,13,999,Informal,Informal,Informal,INF,999,567
+Burleigh,14,62,"Hart, Michael",Hart,Michael,LNP,1,13784
+Burleigh,14,63,"Power, Jane",Power,Jane,GRN,2,3108
+Burleigh,14,64,"Baynes, Susan",Baynes,Susan,FFP,3,1167
+Burleigh,14,65,"MacAnally, James",MacAnally,James,PUP,4,2299
+Burleigh,14,66,"Hislop, Gail",Hislop,Gail,ALP,5,9175
+Burleigh,14,999,Informal,Informal,Informal,INF,999,783
+Burnett,15,67,"Mustill, Bryan",Mustill,Bryan,ALP,1,9134
+Burnett,15,68,"Sheppard, Colin",Sheppard,Colin,GRN,2,1439
+Burnett,15,69,"Bennett, Stephen",Bennett,Stephen,LNP,3,14434
+Burnett,15,70,"Love, Richard",Love,Richard,PUP,4,4445
+Burnett,15,71,"Wyatt, Peter",Wyatt,Peter,IND,5,1134
+Burnett,15,999,Informal,Informal,Informal,INF,999,763
+Cairns,16,72,"Sackley, Jeanette",Sackley,Jeanette,PUP,1,2902
+Cairns,16,73,"Pyne, Rob",Pyne,Rob,ALP,2,13770
+Cairns,16,74,"Kelly, Bernice",Kelly,Bernice,IND,3,553
+Cairns,16,75,"Gold, Myra",Gold,Myra,GRN,4,2010
+Cairns,16,76,"King, Gavin",King,Gavin,LNP,5,10960
+Cairns,16,999,Informal,Informal,Informal,INF,999,739
+Callide,17,77,"Higginson, Michael",Higginson,Michael,IND,1,538
+Callide,17,78,"Bjelke-Petersen, John",Bjelke-Petersen,John,PUP,2,6944
+Callide,17,79,"Scott, Duncan",Scott,Duncan,IND,3,384
+Callide,17,80,"Ensby, Steve",Ensby,Steve,IND,4,718
+Callide,17,81,"Seeney, Jeff",Seeney,Jeff,LNP,5,12815
+Callide,17,82,"Martin, Graeme",Martin,Graeme,ALP,6,5312
+Callide,17,83,"Schulz, Erich",Schulz,Erich,GRN,7,848
+Callide,17,999,Informal,Informal,Informal,INF,999,449
+Caloundra,18,84,"Anderson, Fiona",Anderson,Fiona,GRN,1,3026
+Caloundra,18,85,"Hunt, Jason",Hunt,Jason,ALP,2,8595
+Caloundra,18,86,"McArdle, Mark",McArdle,Mark,LNP,3,13021
+Caloundra,18,87,"Jones, Barry",Jones,Barry,IND,4,1991
+Caloundra,18,88,"Collins, Phillip",Collins,Phillip,PUP,5,3071
+Caloundra,18,999,Informal,Informal,Informal,INF,999,684
+Capalaba,19,89,"Payne, Erin",Payne,Erin,GRN,1,3649
+Capalaba,19,90,"Davies, Steve",Davies,Steve,LNP,2,11602
+Capalaba,19,91,"Brown, Don",Brown,Don,ALP,3,14046
+Capalaba,19,999,Informal,Informal,Informal,INF,999,782
+Chatsworth,20,92,"Reilly, Jarred",Reilly,Jarred,GRN,1,2677
+Chatsworth,20,93,"Keene, Paul",Keene,Paul,ALP,2,12255
+Chatsworth,20,94,"Deecke, Aaron",Deecke,Aaron,FFP,3,947
+Chatsworth,20,95,"Minnikin, Steve",Minnikin,Steve,LNP,4,15216
+Chatsworth,20,999,Informal,Informal,Informal,INF,999,528
+Clayfield,21,96,"Nicholls, Tim",Nicholls,Tim,LNP,1,16113
+Clayfield,21,97,"Martin, John",Martin,John,ALP,2,9769
+Clayfield,21,98,"Pink, Anthony",Pink,Anthony,GRN,3,3393
+Clayfield,21,99,"Macdonald, Katrina",Macdonald,Katrina,IND,4,1188
+Clayfield,21,999,Informal,Informal,Informal,INF,999,498
+Cleveland,22,100,"Huges, Tracey",Huges,Tracey,ALP,1,11288
+Cleveland,22,101,"White, Amanda",White,Amanda,GRN,2,3795
+Cleveland,22,102,"Robinson, Mark",Robinson,Mark,LNP,3,16434
+Cleveland,22,999,Informal,Informal,Informal,INF,999,593
+Condamine,23,103,"Huybregts, Brendon",Huybregts,Brendon,ALP,1,7271
+Condamine,23,104,"Todd, Alexandra",Todd,Alexandra,FFP,2,1455
+Condamine,23,105,"White, Shane",White,Shane,IND,3,1150
+Condamine,23,106,"Weekes, Pamela Fay",Weekes,Pamela Fay,GRN,4,1306
+Condamine,23,107,"Hopper, Ben",Hopper,Ben,KAP,5,5059
+Condamine,23,108,"Weir, Pat",Weir,Pat,LNP,6,17028
+Condamine,23,999,Informal,Informal,Informal,INF,999,710
+Cook,24,109,"Desjardin, Daryl",Desjardin,Daryl,GRN,1,1353
+Cook,24,110,"Kempton, David",Kempton,David,LNP,2,8424
+Cook,24,111,"Booth, Jason",Booth,Jason,PUP,3,1678
+Cook,24,112,"Newie, Michaelangelo",Newie,Michaelangelo,IND,4,332
+Cook,24,113,"Marriott, Lee",Marriott,Lee,KAP,5,3134
+Cook,24,114,"Gordon, Billy",Gordon,Billy,ALP,6,10119
+Cook,24,999,Informal,Informal,Informal,INF,999,497
+Coomera,25,115,"McCreadie, Brett",McCreadie,Brett,ALP,1,10377
+Coomera,25,116,"Morgan, Shirley",Morgan,Shirley,PUP,2,3115
+Coomera,25,117,"Wisbey, Chris",Wisbey,Chris,GRN,3,1834
+Coomera,25,118,"Crandon, Michael",Crandon,Michael,LNP,4,16916
+Coomera,25,119,"O'Brien, Cathy",O'Brien,Cathy,FFP,5,1236
+Coomera,25,999,Informal,Informal,Informal,INF,999,889
+Currumbin,26,120,"Wain, Ashley",Wain,Ashley,ALP,1,8804
+Currumbin,26,121,"Rees, Kristian",Rees,Kristian,PUP,2,2046
+Currumbin,26,122,"Donovan, Ben",Donovan,Ben,FFP,3,746
+Currumbin,26,123,"Gravenall, Deborah",Gravenall,Deborah,ON,4,1073
+Currumbin,26,124,"Stuckey, Jann",Stuckey,Jann,LNP,5,13389
+Currumbin,26,125,"Wyatt, David",Wyatt,David,GRN,6,3442
+Currumbin,26,999,Informal,Informal,Informal,INF,999,727
+Dalrymple,27,126,"Knuth, Shane",Knuth,Shane,KAP,1,11127
+Dalrymple,27,127,"Schmidt, Liz",Schmidt,Liz,LNP,2,8004
+Dalrymple,27,128,"Kettleton, Leanne",Kettleton,Leanne,ALP,3,6489
+Dalrymple,27,129,"Weier, Valerie",Weier,Valerie,GRN,4,1131
+Dalrymple,27,999,Informal,Informal,Informal,INF,999,459
+Everton,28,130,"Norrie, Aidan",Norrie,Aidan,GRN,1,3084
+Everton,28,131,"Frew, Jeff",Frew,Jeff,ALP,2,11910
+Everton,28,132,"Mander, Tim",Mander,Tim,LNP,3,14601
+Everton,28,999,Informal,Informal,Informal,INF,999,508
+Ferny Grove,29,133,"Berkman, Michael",Berkman,Michael,GRN,1,3589
+Ferny Grove,29,134,"Gittins, Di",Gittins,Di,IND,2,588
+Ferny Grove,29,135,"Shuttleworth, Dale",Shuttleworth,Dale,LNP,3,13214
+Ferny Grove,29,136,"Taverner, Mark",Taverner,Mark,PUP,4,993
+Ferny Grove,29,137,"Furner, Mark",Furner,Mark,ALP,5,11253
+Ferny Grove,29,999,Informal,Informal,Informal,INF,999,459
+Gaven,30,138,"Cramp, Sid",Cramp,Sid,LNP,1,11786
+Gaven,30,139,"Marcinkowski, Adam",Marcinkowski,Adam,PUP,2,2740
+Gaven,30,140,"O'Brien, Ben",O'Brien,Ben,FFP,3,1083
+Gaven,30,141,"Riordan, Michael",Riordan,Michael,ALP,4,8700
+Gaven,30,142,"Douglas, Alex",Douglas,Alex,IND,5,3779
+Gaven,30,143,"Ivory, Chris",Ivory,Chris,IND,6,321
+Gaven,30,144,"McPherson, Toni",McPherson,Toni,GRN,7,1852
+Gaven,30,999,Informal,Informal,Informal,INF,999,980
+Gladstone,31,145,"Tomsett, Craig",Tomsett,Craig,GRN,1,1221
+Gladstone,31,146,"Butler, Craig",Butler,Craig,IND,2,8981
+Gladstone,31,147,"Duggan, Michael",Duggan,Michael,LNP,3,4784
+Gladstone,31,148,"Butcher, Glenn",Butcher,Glenn,ALP,4,16512
+Gladstone,31,999,Informal,Informal,Informal,INF,999,583
+Glass House,32,149,"Hampstead, Brent",Hampstead,Brent,ALP,1,9587
+Glass House,32,150,"Higgins, Scott",Higgins,Scott,PUP,2,3570
+Glass House,32,151,"Knobel, David",Knobel,David,GRN,3,4511
+Glass House,32,152,"Powell, Andrew",Powell,Andrew,LNP,4,13727
+Glass House,32,999,Informal,Informal,Informal,INF,999,700
+Greenslopes,33,153,"Kaye, Ian",Kaye,Ian,LNP,1,12013
+Greenslopes,33,154,"Darragh, Matthew",Darragh,Matthew,FFP,2,696
+Greenslopes,33,155,"Kelly, Joseph",Kelly,Joseph,ALP,3,12077
+Greenslopes,33,156,"Ellis, Darren",Ellis,Darren,GRN,4,3682
+Greenslopes,33,999,Informal,Informal,Informal,INF,999,456
+Gregory,34,157,"Currie, Bruce",Currie,Bruce,IND,1,1370
+Gregory,34,158,"Stockham, Ross",Stockham,Ross,KAP,2,2388
+Gregory,34,159,"Millar, Lachlan",Millar,Lachlan,LNP,3,10987
+Gregory,34,160,"Weston, Norm",Weston,Norm,GRN,4,457
+Gregory,34,161,"Linton-Helliar, Michael",Linton-Helliar,Michael,PUP,5,2236
+Gregory,34,162,"Thompson, Cheryl",Thompson,Cheryl,ALP,6,6249
+Gregory,34,999,Informal,Informal,Informal,INF,999,432
+Gympie,35,163,"Meredith, Stephen",Meredith,Stephen,ALP,1,6971
+Gympie,35,164,"Macdonald, Shena",Macdonald,Shena,GRN,2,2414
+Gympie,35,165,"Frost, Mitchell",Frost,Mitchell,PUP,3,3384
+Gympie,35,166,"Paulger, Shane",Paulger,Shane,KAP,4,4804
+Gympie,35,167,"Perrett, Tony",Perrett,Tony,LNP,5,12366
+Gympie,35,999,Informal,Informal,Informal,INF,999,673
+Hervey Bay,36,168,"Gubbins, Tony",Gubbins,Tony,ALP,1,10088
+Hervey Bay,36,169,"Dean, Jannean",Dean,Jannean,IND,2,1216
+Hervey Bay,36,170,"Pearsall, Lynette",Pearsall,Lynette,PUP,3,3469
+Hervey Bay,36,171,"Beard, Axel",Beard,Axel,FFP,4,669
+Hervey Bay,36,172,"Lyons, Kristen",Lyons,Kristen,GRN,5,1177
+Hervey Bay,36,173,"Sorensen, Ted",Sorensen,Ted,LNP,6,15316
+Hervey Bay,36,999,Informal,Informal,Informal,INF,999,768
+Hinchinbrook,37,174,"Brewster, Martin",Brewster,Martin,PUP,1,3029
+Hinchinbrook,37,175,"Barnes, Barry",Barnes,Barry,KAP,2,5224
+Hinchinbrook,37,176,"Cripps, Andrew",Cripps,Andrew,LNP,3,12156
+Hinchinbrook,37,177,"Trecco-Alexander, Jesse",Trecco-Alexander,Jesse,ALP,4,7155
+Hinchinbrook,37,178,"Stirling, Jenny",Stirling,Jenny,GRN,5,1101
+Hinchinbrook,37,179,"Hankin, Bill",Hankin,Bill,ON,6,1224
+Hinchinbrook,37,999,Informal,Informal,Informal,INF,999,520
+Inala,38,180,"Palaszczuk, Annastacia",Palaszczuk,Annastacia,ALP,1,18915
+Inala,38,181,"Volkmann, Silke",Volkmann,Silke,GRN,2,2272
+Inala,38,182,"Hannant, Adam",Hannant,Adam,LNP,3,6442
+Inala,38,999,Informal,Informal,Informal,INF,999,632
+Indooroopilly,39,183,"Diamond, Anita",Diamond,Anita,IND,1,490
+Indooroopilly,39,184,"Freney, Ben",Freney,Ben,IND,2,134
+Indooroopilly,39,185,"Horacek, Chris",Horacek,Chris,ALP,3,7260
+Indooroopilly,39,186,"Emerson, Scott",Emerson,Scott,LNP,4,13502
+Indooroopilly,39,187,"Swan, Paul",Swan,Paul,IND,5,165
+Indooroopilly,39,188,"Schoermer, Jake",Schoermer,Jake,GRN,6,4933
+Indooroopilly,39,999,Informal,Informal,Informal,INF,999,364
+Ipswich,40,189,"Stieler, Tim",Stieler,Tim,FFP,1,1438
+Ipswich,40,190,"Berry, Ian",Berry,Ian,LNP,2,8526
+Ipswich,40,191,"Petersen, Patricia",Petersen,Patricia,IND,3,1767
+Ipswich,40,192,"Howard, Jennifer",Howard,Jennifer,ALP,4,15904
+Ipswich,40,193,"Walsh, Pat",Walsh,Pat,GRN,5,2245
+Ipswich,40,999,Informal,Informal,Informal,INF,999,629
+Ipswich West,41,194,"Madden, Jim",Madden,Jim,ALP,1,14025
+Ipswich West,41,195,"Choat, Sean",Choat,Sean,LNP,2,10911
+Ipswich West,41,196,"Reynolds, Chris",Reynolds,Chris,ON,3,3076
+Ipswich West,41,197,"Talty, Leo",Talty,Leo,IND,4,925
+Ipswich West,41,198,"Simons, Ian",Simons,Ian,GRN,5,1782
+Ipswich West,41,999,Informal,Informal,Informal,INF,999,632
+Kallangur,42,199,"King, Shane",King,Shane,ALP,1,14285
+Kallangur,42,200,"Kennedy, Jason",Kennedy,Jason,GRN,2,3166
+Kallangur,42,201,"Ruthenberg, Trevor",Ruthenberg,Trevor,LNP,3,12235
+Kallangur,42,999,Informal,Informal,Informal,INF,999,763
+Kawana,43,202,"Davey, Jeremy",Davey,Jeremy,PUP,1,3693
+Kawana,43,203,"Bleijie, Jarrod",Bleijie,Jarrod,LNP,2,15909
+Kawana,43,204,"Jessop, Michael",Jessop,Michael,IND,3,516
+Kawana,43,205,"Finch, Marcus",Finch,Marcus,GRN,4,2743
+Kawana,43,206,"Deller, Jason",Deller,Jason,IND,5,287
+Kawana,43,207,"Moss, Mark",Moss,Mark,ALP,6,8422
+Kawana,43,999,Informal,Informal,Informal,INF,999,740
+Keppel,44,208,"Lauga, Brittany",Lauga,Brittany,ALP,1,14403
+Keppel,44,209,"Young, Bruce",Young,Bruce,LNP,2,12698
+Keppel,44,210,"Jones, Brandon",Jones,Brandon,GRN,3,1497
+Keppel,44,211,"Diamond, Bruce",Diamond,Bruce,IND,4,1143
+Keppel,44,212,"Purnell, Warren",Purnell,Warren,PUP,5,2679
+Keppel,44,999,Informal,Informal,Informal,INF,999,554
+Lockyer,45,213,"Leese, Steve",Leese,Steve,ALP,1,7652
+Lockyer,45,214,"Rickuss, Ian",Rickuss,Ian,LNP,2,10259
+Lockyer,45,215,"Rudkin, Clare",Rudkin,Clare,GRN,3,1190
+Lockyer,45,216,"Neuendorf, David",Neuendorf,David,KAP,4,2111
+Lockyer,45,217,"Hanson, Pauline",Hanson,Pauline,ON,5,8132
+Lockyer,45,218,"Gunnis, Craig",Gunnis,Craig,PUP,6,1068
+Lockyer,45,999,Informal,Informal,Informal,INF,999,476
+Logan,46,219,"Southwood, Kim",Southwood,Kim,GRN,1,1654
+Logan,46,220,"Pellowe, David",Pellowe,David,FFP,2,1098
+Logan,46,221,"Murphy, Daniel",Murphy,Daniel,IND,3,523
+Logan,46,222,"Power, Linus",Power,Linus,ALP,4,13839
+Logan,46,223,"Pucci, Michael",Pucci,Michael,LNP,5,9267
+Logan,46,224,"Ervik, Peter",Ervik,Peter,IND,6,393
+Logan,46,999,Informal,Informal,Informal,INF,999,859
+Lytton,47,225,"Pease, Joan",Pease,Joan,ALP,1,14368
+Lytton,47,226,"Symes, Neil",Symes,Neil,LNP,2,10657
+Lytton,47,227,"Michel, Tamera",Michel,Tamera,IND,3,849
+Lytton,47,228,"Evans, Jamie",Evans,Jamie,IND,4,831
+Lytton,47,229,"Nelson, Dave",Nelson,Dave,GRN,5,2616
+Lytton,47,999,Informal,Informal,Informal,INF,999,564
+Mackay,48,230,"Dykyj, Jonathon",Dykyj,Jonathon,GRN,1,1285
+Mackay,48,231,"Boyd, Julie",Boyd,Julie,IND,2,5720
+Mackay,48,232,"Temple, Lindsay",Temple,Lindsay,FFP,3,857
+Mackay,48,233,"Attard, Deon",Attard,Deon,LNP,4,6680
+Mackay,48,234,"Gilbert, Julieanne",Gilbert,Julieanne,ALP,5,11346
+Mackay,48,999,Informal,Informal,Informal,INF,999,653
+Mansfield,49,235,"Wirth, Jarrod",Wirth,Jarrod,IND,1,895
+Mansfield,49,236,"Obeid, Adam",Obeid,Adam,ALP,2,10875
+Mansfield,49,237,"Walker, Ian",Walker,Ian,LNP,3,12574
+Mansfield,49,238,"Jelicic, Nick",Jelicic,Nick,GRN,4,2476
+Mansfield,49,999,Informal,Informal,Informal,INF,999,460
+Maroochydore,50,239,"Byrnes, Trudy",Byrnes,Trudy,GRN,1,4138
+Maroochydore,50,240,"McDonald, James",McDonald,James,PUP,2,4356
+Maroochydore,50,241,"Simpson, Fiona",Simpson,Fiona,LNP,3,15267
+Maroochydore,50,242,"Gissane, Bill",Gissane,Bill,ALP,4,7743
+Maroochydore,50,999,Informal,Informal,Informal,INF,999,666
+Maryborough,51,243,"Huxham, Damian",Huxham,Damian,ON,1,2217
+Maryborough,51,244,"Maddern, Anne",Maddern,Anne,LNP,2,9702
+Maryborough,51,245,"Webb, Katherine",Webb,Katherine,GRN,3,813
+Maryborough,51,246,"Anderson, Stephen",Anderson,Stephen,PUP,4,3931
+Maryborough,51,247,"Foley, Chris",Foley,Chris,IND,5,6749
+Maryborough,51,248,"Wattie, Russell",Wattie,Russell,IND,6,309
+Maryborough,51,249,"Saunders, Bruce",Saunders,Bruce,ALP,7,8031
+Maryborough,51,999,Informal,Informal,Informal,INF,999,630
+Mermaid Beach,52,250,"Green, Simon",Green,Simon,FFP,1,1718
+Mermaid Beach,52,251,"Pead, Gary",Pead,Gary,ALP,2,7333
+Mermaid Beach,52,252,"Caraco, Alex",Caraco,Alex,PUP,3,2286
+Mermaid Beach,52,253,"Stevens, Ray",Stevens,Ray,LNP,4,15287
+Mermaid Beach,52,254,"Wainwright, Helen",Wainwright,Helen,GRN,5,2577
+Mermaid Beach,52,999,Informal,Informal,Informal,INF,999,852
+Mirani,53,255,"Kerslake, John",Kerslake,John,LNP,1,11505
+Mirani,53,256,"Pearce, Jim",Pearce,Jim,ALP,2,12919
+Mirani,53,257,"Hall, Michael",Hall,Michael,PUP,3,5146
+Mirani,53,258,"Brindley, Trisha",Brindley,Trisha,GRN,4,1268
+Mirani,53,999,Informal,Informal,Informal,INF,999,633
+Moggill,54,259,"Worringham, Charles",Worringham,Charles,GRN,1,4758
+Moggill,54,260,"Pink, Louisa",Pink,Louisa,ALP,2,7600
+Moggill,54,261,"Rowan, Christian",Rowan,Christian,LNP,3,15104
+Moggill,54,262,"Van Zyl, Dion",Van Zyl,Dion,PUP,4,692
+Moggill,54,263,"Searle, Barry",Searle,Barry,IND,5,1959
+Moggill,54,999,Informal,Informal,Informal,INF,999,455
+Morayfield,55,264,"Beck, Stephen",Beck,Stephen,IND,1,572
+Morayfield,55,265,"Ryan, Mark",Ryan,Mark,ALP,2,14952
+Morayfield,55,266,"Rogan, Bill",Rogan,Bill,PUP,3,1918
+Morayfield,55,267,"Tyrrell, Andrew",Tyrrell,Andrew,IND,4,174
+Morayfield,55,268,"Grimwade, Darren",Grimwade,Darren,LNP,5,9708
+Morayfield,55,269,"Costin, Paul",Costin,Paul,GRN,6,1309
+Morayfield,55,270,"Eaton, Jon",Eaton,Jon,FFP,7,890
+Morayfield,55,999,Informal,Informal,Informal,INF,999,750
+Mount Coot-tha,56,271,"Rice, Saxon",Rice,Saxon,LNP,1,11814
+Mount Coot-tha,56,272,"Ameer, Omar",Ameer,Omar,GRN,2,6095
+Mount Coot-tha,56,273,"Miles, Steven",Miles,Steven,ALP,3,8966
+Mount Coot-tha,56,274,"McAlister, Charles",McAlister,Charles,IND,4,611
+Mount Coot-tha,56,999,Informal,Informal,Informal,INF,999,349
+Mount Isa,57,275,"Katter, Rob",Katter,Rob,KAP,1,7468
+Mount Isa,57,276,"Foth, Marcus",Foth,Marcus,GRN,2,318
+Mount Isa,57,277,"Wharton, John",Wharton,John,LNP,3,4646
+Mount Isa,57,278,"Tayler, Simon",Tayler,Simon,ALP,4,2899
+Mount Isa,57,279,"Sheard, Scott",Sheard,Scott,ON,5,638
+Mount Isa,57,999,Informal,Informal,Informal,INF,999,264
+Mount Ommaney,58,280,"Smith, Tarnya",Smith,Tarnya,LNP,1,13264
+Mount Ommaney,58,281,"Mulkearns, Jenny",Mulkearns,Jenny,GRN,2,3161
+Mount Ommaney,58,282,"Hewlett, Kathleen",Hewlett,Kathleen,PUP,3,1102
+Mount Ommaney,58,283,"Pugh, Jessica",Pugh,Jessica,ALP,4,11152
+Mount Ommaney,58,999,Informal,Informal,Informal,INF,999,537
+Mudgeeraba,59,284,"Figueroa, Benedict",Figueroa,Benedict,PUP,1,2244
+Mudgeeraba,59,285,"Bates, Ros",Bates,Ros,LNP,2,14846
+Mudgeeraba,59,286,"Sherwood, Bill",Sherwood,Bill,IND,3,525
+Mudgeeraba,59,287,"Petersen, Chris",Petersen,Chris,FFP,4,1339
+Mudgeeraba,59,288,"Leader, Georgi",Leader,Georgi,ALP,5,8117
+Mudgeeraba,59,289,"Brisbane, Roger",Brisbane,Roger,GRN,6,2279
+Mudgeeraba,59,999,Informal,Informal,Informal,INF,999,819
+Mulgrave,60,290,"Boer, Henry",Boer,Henry,GRN,1,1021
+Mulgrave,60,291,"Pitt, Curtis",Pitt,Curtis,ALP,2,13605
+Mulgrave,60,292,"Quick, Robyn",Quick,Robyn,LNP,3,8334
+Mulgrave,60,293,"Byrnes, Damian",Byrnes,Damian,IND,4,867
+Mulgrave,60,294,"Wolff, Christian",Wolff,Christian,PUP,5,2821
+Mulgrave,60,999,Informal,Informal,Informal,INF,999,618
+Mundingburra,61,295,"Crisafulli, David",Crisafulli,David,LNP,1,10921
+Mundingburra,61,296,"Brown, Jenny",Brown,Jenny,GRN,2,2040
+Mundingburra,61,297,"Mensink, Clive",Mensink,Clive,PUP,3,2874
+Mundingburra,61,298,"O'Rourke, Coralee",O'Rourke,Coralee,ALP,4,10596
+Mundingburra,61,999,Informal,Informal,Informal,INF,999,606
+Murrumba,62,299,"Dejun, Simone",Dejun,Simone,GRN,1,2131
+Murrumba,62,300,"Whiting, Chris",Whiting,Chris,ALP,2,16997
+Murrumba,62,301,"Gulley, Reg",Gulley,Reg,LNP,3,13194
+Murrumba,62,302,"Hutchinson, Ray",Hutchinson,Ray,FFP,4,2051
+Murrumba,62,999,Informal,Informal,Informal,INF,999,767
+Nanango,63,303,"Love, Dean",Love,Dean,IND,1,841
+Nanango,63,304,"Frecklington, Deb",Frecklington,Deb,LNP,2,14698
+Nanango,63,305,"Ford, Jason",Ford,Jason,PUP,3,3269
+Nanango,63,306,"Newson, Grant",Newson,Grant,GRN,4,1170
+Nanango,63,307,"Hollens-Riley, Liz",Hollens-Riley,Liz,ALP,5,6397
+Nanango,63,308,"Hopper, Ray",Hopper,Ray,KAP,6,4827
+Nanango,63,999,Informal,Informal,Informal,INF,999,606
+Nicklin,64,309,"Raethel, Justin",Raethel,Justin,ALP,1,4941
+Nicklin,64,310,"Doolan, Julie",Doolan,Julie,GRN,2,2673
+Nicklin,64,311,"Wellington, Peter",Wellington,Peter,IND,3,13237
+Nicklin,64,312,"Trace, Matt",Trace,Matt,LNP,4,9379
+Nicklin,64,999,Informal,Informal,Informal,INF,999,686
+Noosa,65,313,"Woods, Ian",Woods,Ian,PUP,1,3023
+Noosa,65,314,"Denham, Mark",Denham,Mark,ALP,2,6506
+Noosa,65,315,"Elmes, Glen",Elmes,Glen,LNP,3,15455
+Noosa,65,316,"Shlegeris, Joe",Shlegeris,Joe,GRN,4,6789
+Noosa,65,999,Informal,Informal,Informal,INF,999,681
+Nudgee,66,317,"Monaei, Edward",Monaei,Edward,IND,1,793
+Nudgee,66,318,"Dufficy, Peter",Dufficy,Peter,PUP,2,1361
+Nudgee,66,319,"Ogden, Claire",Ogden,Claire,GRN,3,2979
+Nudgee,66,320,"Woodforth, Jason",Woodforth,Jason,LNP,4,10531
+Nudgee,66,321,"Linard, Leanne",Linard,Leanne,ALP,5,15470
+Nudgee,66,999,Informal,Informal,Informal,INF,999,559
+Pine Rivers,67,322,"Marshall, John",Marshall,John,GRN,1,2444
+Pine Rivers,67,323,"Boyd, Nikki",Boyd,Nikki,ALP,2,14752
+Pine Rivers,67,324,"Holswich, Seath",Holswich,Seath,LNP,3,11820
+Pine Rivers,67,325,"Prohaska, Thor",Prohaska,Thor,IND,4,1419
+Pine Rivers,67,999,Informal,Informal,Informal,INF,999,651
+Pumicestone,68,326,"Williams, Rick",Williams,Rick,ALP,1,13589
+Pumicestone,68,327,"Collingwood, Bevan",Collingwood,Bevan,IND,2,901
+Pumicestone,68,328,"O'Connell, Daniel",O'Connell,Daniel,GRN,3,1824
+Pumicestone,68,329,"Johnson, Denis",Johnson,Denis,IND,4,431
+Pumicestone,68,330,"France, Lisa",France,Lisa,LNP,5,13975
+Pumicestone,68,331,"Verrier, Blair",Verrier,Blair,PUP,6,2451
+Pumicestone,68,999,Informal,Informal,Informal,INF,999,749
+Redcliffe,69,332,"White, Mark",White,Mark,FFP,1,710
+Redcliffe,69,333,"Johnson, Peter",Johnson,Peter,GRN,2,1698
+Redcliffe,69,334,"Griffith, Steven",Griffith,Steven,PUP,3,1477
+Redcliffe,69,335,"D'Ath, Yvette",D'Ath,Yvette,ALP,4,14399
+Redcliffe,69,336,"Jarvis, Shayne",Jarvis,Shayne,IND,5,701
+Redcliffe,69,337,"Dooley, Kerri-Anne",Dooley,Kerri-Anne,LNP,6,11497
+Redcliffe,69,999,Informal,Informal,Informal,INF,999,620
+Redlands,70,338,"McEachan, Matt",McEachan,Matt,LNP,1,13340
+Redlands,70,339,"Hewlett, Sheena",Hewlett,Sheena,IND,2,1939
+Redlands,70,340,"Ferrando, Carolyn",Ferrando,Carolyn,FFP,3,625
+Redlands,70,341,"Kellie, Deb",Kellie,Deb,ALP,4,10442
+Redlands,70,342,"Bylett, Susan",Bylett,Susan,PUP,5,1809
+Redlands,70,343,"Keogh, David",Keogh,David,GRN,6,2261
+Redlands,70,999,Informal,Informal,Informal,INF,999,726
+Rockhampton,71,344,"Taylor, Michelle",Taylor,Michelle,GRN,1,1863
+Rockhampton,71,345,"Byrne, Bill",Byrne,Bill,ALP,2,15432
+Rockhampton,71,346,"Vincent, Sally-Anne",Vincent,Sally-Anne,FFP,3,1703
+Rockhampton,71,347,"O'Connor, Anne",O'Connor,Anne,IND,4,1317
+Rockhampton,71,348,"Luva, Bridie",Luva,Bridie,LNP,5,8869
+Rockhampton,71,999,Informal,Informal,Informal,INF,999,818
+Sandgate,72,349,"Millard, Kerry",Millard,Kerry,LNP,1,10967
+Sandgate,72,350,"Harbison, John",Harbison,John,GRN,2,3033
+Sandgate,72,351,"Hinchliffe, Stirling",Hinchliffe,Stirling,ALP,3,14802
+Sandgate,72,352,"Gray, Hamish",Gray,Hamish,IND,4,959
+Sandgate,72,999,Informal,Informal,Informal,INF,999,580
+South Brisbane,73,353,"Boele, Karel",Boele,Karel,IND,1,930
+South Brisbane,73,354,"Ward, Fiona",Ward,Fiona,LNP,2,9321
+South Brisbane,73,355,"Sri, Jonathan",Sri,Jonathan,GRN,3,6320
+South Brisbane,73,356,"Trad, Jackie",Trad,Jackie,ALP,4,12355
+South Brisbane,73,999,Informal,Informal,Informal,INF,999,484
+Southern Downs,74,357,"Spellman, John",Spellman,John,FFP,1,2022
+Southern Downs,74,358,"Ryan, Louise",Ryan,Louise,ALP,2,7201
+Southern Downs,74,359,"Ure, Elizabeth",Ure,Elizabeth,GRN,3,2200
+Southern Downs,74,360,"Springborg, Lawrence",Springborg,Lawrence,LNP,4,19275
+Southern Downs,74,999,Informal,Informal,Informal,INF,999,623
+Southport,75,361,"Holzberger, Rowan",Holzberger,Rowan,ALP,1,10153
+Southport,75,362,"Stanton, Nicole",Stanton,Nicole,PUP,2,2402
+Southport,75,363,"Maizey, Petrina",Maizey,Petrina,GRN,3,2446
+Southport,75,364,"Mackechnie, Matthew",Mackechnie,Matthew,IND,4,646
+Southport,75,365,"Molhoek, Rob",Molhoek,Rob,LNP,5,13287
+Southport,75,999,Informal,Informal,Informal,INF,999,836
+Springwood,76,366,"Leo, Janina",Leo,Janina,GRN,1,2595
+Springwood,76,367,"Lawrie, Chris",Lawrie,Chris,FFP,2,908
+Springwood,76,368,"Chamberlain, Peter",Chamberlain,Peter,PUP,3,1504
+Springwood,76,369,"Grant, John",Grant,John,LNP,4,12547
+Springwood,76,370,"de Brenni, Mick",de Brenni,Mick,ALP,5,12260
+Springwood,76,999,Informal,Informal,Informal,INF,999,567
+Stafford,77,371,"Lynham, Anthony",Lynham,Anthony,ALP,1,13824
+Stafford,77,372,"Boccabella, Anne",Boccabella,Anne,GRN,2,4069
+Stafford,77,373,"Andersen, Bob",Andersen,Bob,LNP,3,10822
+Stafford,77,999,Informal,Informal,Informal,INF,999,482
+Stretton,78,374,"Ostapovitch, Freya",Ostapovitch,Freya,LNP,1,10884
+Stretton,78,375,"Pegg, Duncan",Pegg,Duncan,ALP,2,11876
+Stretton,78,376,"Forde, David",Forde,David,IND,3,4431
+Stretton,78,377,"Sadler, Brian",Sadler,Brian,GRN,4,1502
+Stretton,78,999,Informal,Informal,Informal,INF,999,588
+Sunnybank,79,378,"Stewart, Mark",Stewart,Mark,LNP,1,10537
+Sunnybank,79,379,"King, Gordon",King,Gordon,GRN,2,2839
+Sunnybank,79,380,"Russo, Peter",Russo,Peter,ALP,3,12993
+Sunnybank,79,999,Informal,Informal,Informal,INF,999,626
+Surfers Paradise,80,381,"Scoones, Jonathon",Scoones,Jonathon,FFP,1,692
+Surfers Paradise,80,382,"Langbroek, John-Paul",Langbroek,John-Paul,LNP,2,17569
+Surfers Paradise,80,383,"Hunt, Helen",Hunt,Helen,GRN,3,2221
+Surfers Paradise,80,384,"Gardner, Stephen",Gardner,Stephen,PUP,4,1749
+Surfers Paradise,80,385,"Blundell-Thornton, Josh",Blundell-Thornton,Josh,ALP,5,6544
+Surfers Paradise,80,999,Informal,Informal,Informal,INF,999,605
+Thuringowa,81,386,"Knuth, Jeffrey",Knuth,Jeffrey,ON,1,2161
+Thuringowa,81,387,"Waters, Michael",Waters,Michael,FFP,2,617
+Thuringowa,81,388,"Cox, Sam",Cox,Sam,LNP,3,9945
+Thuringowa,81,389,"Thompson, Karen",Thompson,Karen,GRN,4,1028
+Thuringowa,81,390,"Bell, Margaret",Bell,Margaret,IND,5,579
+Thuringowa,81,391,"Ferguson, Ian",Ferguson,Ian,PUP,6,3407
+Thuringowa,81,392,"Harper, Aaron",Harper,Aaron,ALP,7,11584
+Thuringowa,81,999,Informal,Informal,Informal,INF,999,792
+Toowoomba North,82,393,"Sands, John",Sands,John,FFP,1,871
+Toowoomba North,82,394,"Watts, Trevor",Watts,Trevor,LNP,2,13932
+Toowoomba North,82,395,"Keane, Greg",Keane,Greg,IND,3,347
+Toowoomba North,82,396,"Sandhu, Mandeep",Sandhu,Mandeep,PUP,4,1578
+Toowoomba North,82,397,"Shine, Kerry",Shine,Kerry,ALP,5,12166
+Toowoomba North,82,398,"Gover, Ken",Gover,Ken,GRN,6,1430
+Toowoomba North,82,399,"Elliott, Ken",Elliott,Ken,KAP,7,1050
+Toowoomba North,82,999,Informal,Informal,Informal,INF,999,606
+Toowoomba South,83,400,"McVeigh, John",McVeigh,John,LNP,1,16851
+Toowoomba South,83,401,"Storey, Graham",Storey,Graham,ALP,2,10601
+Toowoomba South,83,402,"Waters, Anne",Waters,Anne,GRN,3,3003
+Toowoomba South,83,999,Informal,Informal,Informal,INF,999,767
+Townsville,84,403,"Birrell, Alan",Birrell,Alan,PUP,1,2697
+Townsville,84,404,"Hathaway, John",Hathaway,John,LNP,2,10130
+Townsville,84,405,"Rissman, Leanne",Rissman,Leanne,ON,3,1079
+Townsville,84,406,"Hamilton, Gail",Hamilton,Gail,GRN,4,2356
+Townsville,84,407,"Punshon, Michael",Punshon,Michael,FFP,5,596
+Townsville,84,408,"Stewart, Scott",Stewart,Scott,ALP,6,11267
+Townsville,84,999,Informal,Informal,Informal,INF,999,613
+Warrego,85,409,"Golden, Ruth",Golden,Ruth,IND,1,1663
+Warrego,85,410,"Leahy, Ann",Leahy,Ann,LNP,2,13285
+Warrego,85,411,"Sara, Guy",Sara,Guy,PUP,3,2179
+Warrego,85,412,"O'Brien, Mark",O'Brien,Mark,ALP,4,6398
+Warrego,85,413,"Bayley, Sandra",Bayley,Sandra,GRN,5,649
+Warrego,85,999,Informal,Informal,Informal,INF,999,510
+Waterford,86,414,"Smith, Ray",Smith,Ray,GRN,1,2537
+Waterford,86,415,"Latter, Michael",Latter,Michael,LNP,2,9347
+Waterford,86,416,"Hodges, Jeffrey",Hodges,Jeffrey,IND,3,1454
+Waterford,86,417,"Dickson, Jason",Dickson,Jason,IND,4,876
+Waterford,86,418,"Fentiman, Shannon",Fentiman,Shannon,ALP,5,15645
+Waterford,86,999,Informal,Informal,Informal,INF,999,938
+Whitsunday,87,419,"Costigan, Jason",Costigan,Jason,LNP,1,13474
+Whitsunday,87,420,"Taha, Bronwyn",Taha,Bronwyn,ALP,2,11775
+Whitsunday,87,421,"Stanton, Kylee",Stanton,Kylee,PUP,3,4047
+Whitsunday,87,422,"Fontes, Tony",Fontes,Tony,GRN,4,1972
+Whitsunday,87,423,"Van Blarcom, Dan",Van Blarcom,Dan,IND,5,997
+Whitsunday,87,999,Informal,Informal,Informal,INF,999,695
+Woodridge,88,424,"Palmer, Trevor",Palmer,Trevor,IND,1,1718
+Woodridge,88,425,"Dick, Cameron",Dick,Cameron,ALP,2,16375
+Woodridge,88,426,"Beard, Dave",Beard,Dave,IND,3,954
+Woodridge,88,427,"Viliamu, Steve",Viliamu,Steve,LNP,4,5140
+Woodridge,88,428,"Thomson, Scott",Thomson,Scott,GRN,5,1922
+Woodridge,88,999,Informal,Informal,Informal,INF,999,951
+Yeerongpilly,89,429,"Abukar, Leila",Abukar,Leila,LNP,1,9579
+Yeerongpilly,89,430,"Walton, Georgina",Walton,Georgina,PUP,2,876
+Yeerongpilly,89,431,"Judge, Carl",Judge,Carl,IND,3,1837
+Yeerongpilly,89,432,"Bailey, Mark",Bailey,Mark,ALP,4,13148
+Yeerongpilly,89,433,"Marshall-Pierce, Gillian",Marshall-Pierce,Gillian,GRN,5,5084
+Yeerongpilly,89,999,Informal,Informal,Informal,INF,999,507

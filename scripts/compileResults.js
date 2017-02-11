@@ -5,23 +5,33 @@
 
 import { parallel } from 'async';
 import { omit, partition, uniq } from 'lodash/fp';
+import { readFileSync } from 'fs';
 import parseData from './parseData';
 import saveRemote from './saveRemote';
 
-const keyMap = {
-  candidate_name: 'name',
-  district_name: 'electorateName',
-  party_code: 'party',
-  votes: 'votes',
-};
+let config;
+
+try {
+  config = JSON.parse(readFileSync(process.argv[2]));
+} catch (err) {
+  console.error(err);
+  process.exit(1);
+}
+
+const {
+  commonInfo,
+  keyMap,
+  primaryDataFile,
+  runoffDataFile,
+} = config;
 
 parallel({
-  primaryData: cb => parseData('wa2013_primary.csv', keyMap, cb),
-  runoffData: cb => parseData('wa2013_2cp.csv', keyMap, cb),
+  primaryData: cb => parseData(primaryDataFile, keyMap, cb),
+  runoffData: cb => parseData(runoffDataFile, keyMap, cb),
 }, (error, { primaryData, runoffData }) => {
   if (error) {
-    console.log(error);
-    process.exit();
+    console.error(error);
+    process.exit(1);
   }
 
   const entries = uniq(
@@ -38,12 +48,12 @@ parallel({
       .map(omit('electorateName'));
 
     return {
-      electionType: 'general',
-      realm: 'wa',
-      chamber: 'la',
-      parliament: 39,
-      date: new Date('2013-03-09'),
-      vacancies: 1,
+      electionType: commonInfo.electionType,
+      realm: commonInfo.realm,
+      chamber: commonInfo.chamber,
+      parliament: commonInfo.parliament,
+      date: commonInfo.date,
+      vacancies: commonInfo.vacancies,
       informal: spoilt.votes,
       electorateId,
       electorateName,

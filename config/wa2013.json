@@ -1,0 +1,18 @@
+{
+  "primaryDataFile": "data/wa2013_primary.csv",
+  "runoffDataFile": "data/wa2013_primary.csv",
+  "commonInfo": {
+    "chamber": "la",
+    "date": "2013-03-09",
+    "electionType": "general",
+    "parliament": 39,
+    "realm": "wa",
+    "vacancies": 1
+  },
+  "keyMap": {
+    "name": "candidate_name",
+    "electorateName": "district_name",
+    "party": "party_code",
+    "votes": "votes"
+  }
+}

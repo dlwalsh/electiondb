@@ -2,7 +2,7 @@
 
 import express from 'express';
 import graphQLHTTP from 'express-graphql';
-import schema from './types';
+import schema from './schema';
 
 const { PORT = 3000 } = process.env;
 const app = express();

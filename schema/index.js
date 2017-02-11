@@ -6,7 +6,7 @@ import {
   GraphQLString,
 } from 'graphql';
 import ResultType from './ResultType';
-import query from '../queries/query';
+import query from '../query';
 
 const schema = new GraphQLSchema({
   query: new GraphQLObjectType({

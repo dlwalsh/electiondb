@@ -10,9 +10,11 @@
     "vacancies": 1
   },
   "keyMap": {
-    "name": "candidate_name",
-    "electorateName": "district_name",
-    "party": "party_code",
-    "votes": "votes"
-  }
+    "name": "{candidate_name}",
+    "electorateName": "{district_name}",
+    "party": "{party_code}",
+    "votes": "{votes}"
+  },
+  "informalCode": "INF",
+  "exhaustedCode": "EXH"
 }

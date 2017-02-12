@@ -1,0 +1,22 @@
+{
+  "primaryDataFile": "data/aus2016_primary.csv",
+  "runoffDataFile": "data/aus2016_2cp.csv",
+  "commonInfo": {
+    "chamber": "hor",
+    "date": "2016-07-02",
+    "electionType": "general",
+    "parliament": 45,
+    "realm": "aus",
+    "vacancies": 1
+  },
+  "keyMap": {
+    "name": "{Surname}, {GivenNm}",
+    "electorateName": "{DivisionNm}",
+    "party": "{PartyAb}",
+    "votes": "{TotalVotes}",
+    "elected": "{Elected}",
+    "incumbent": "{HistoricElected}"
+  },
+  "informalCode": "",
+  "exhaustedCode": ""
+}

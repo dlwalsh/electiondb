@@ -20,6 +20,8 @@ try {
 
 const {
   commonInfo,
+  exhaustedCode,
+  informalCode,
   keyMap,
   primaryDataFile,
   runoffDataFile,
@@ -38,14 +40,14 @@ parallel({
     primaryData.map(x => x.electorateName),
   ).map((electorateName) => {
     const electorateId = electorateName.toLowerCase().replace(/\s+/g, '_');
-    const [[spoilt], primary] = partition(x => x.party === 'INF')(
-      primaryData
-        .filter(x => x.electorateName === electorateName)
-        .map(omit('electorateName')),
-    );
-    const runoff = runoffData
+    const ballotsCast = primaryData
       .filter(x => x.electorateName === electorateName)
       .map(omit('electorateName'));
+    const ballotsDistributed = runoffData
+      .filter(x => x.electorateName === electorateName)
+      .map(omit('electorateName'));
+    const [[spoilt], primary] = partition(x => x.party === informalCode)(ballotsCast);
+    const [[spent], runoff] = partition(x => x.party === exhaustedCode)(ballotsDistributed);
 
     return {
       electionType: commonInfo.electionType,

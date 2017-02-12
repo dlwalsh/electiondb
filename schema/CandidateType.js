@@ -17,6 +17,9 @@ const CandidateType = new GraphQLObjectType({
     votes: {
       type: GraphQLInt,
     },
+    incumbent: {
+      type: GraphQLBoolean,
+    },
     elected: {
       type: GraphQLBoolean,
     },

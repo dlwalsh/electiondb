@@ -4,6 +4,7 @@ import { waterfall } from 'async';
 import { parse } from 'csv';
 import { readFile } from 'fs';
 import { resolve } from 'path';
+import format from 'string-format';
 
 function parseData(filename, keyMap, callback) {
   const filepath = resolve(__dirname, '..', filename);
@@ -18,8 +19,8 @@ function parseData(filename, keyMap, callback) {
     }
 
     const entries = data.map(item => (
-      Object.entries(keyMap).reduce((memo, [key, property]) => Object.assign(memo, {
-        [key]: item[property],
+      Object.entries(keyMap).reduce((memo, [key, template]) => Object.assign(memo, {
+        [key]: format(template, item),
       }), {})
     ));
 

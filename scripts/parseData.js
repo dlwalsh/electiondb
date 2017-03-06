@@ -6,7 +6,7 @@ import { readFile } from 'fs';
 import { resolve } from 'path';
 import format from 'string-format';
 
-function parseData(filename, keyMap, callback) {
+function parseData(filename, { keyMap, truthyValue }, callback) {
   const filepath = resolve(__dirname, '..', filename);
 
   waterfall([
@@ -18,11 +18,14 @@ function parseData(filename, keyMap, callback) {
       return;
     }
 
-    const entries = data.map(item => (
-      Object.entries(keyMap).reduce((memo, [key, template]) => Object.assign(memo, {
-        [key]: format(template, item),
-      }), {})
-    ));
+    const entries = data.map(item => ({
+      name: keyMap.name ? format(keyMap.name, item) : undefined,
+      electorateName: keyMap.electorateName ? format(keyMap.electorateName, item) : undefined,
+      party: keyMap.party ? format(keyMap.party, item) : undefined,
+      votes: keyMap.votes ? format(keyMap.votes, item) : undefined,
+      elected: keyMap.elected && format(keyMap.elected, item) === truthyValue,
+      incumbent: keyMap.incumbent && format(keyMap.incumbent, item) === truthyValue,
+    }));
 
     callback(null, entries);
   });

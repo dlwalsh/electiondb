@@ -57,5 +57,8 @@ jspm_packages
 # dotenv environment variables file
 .env
 
+# Security sensitive files
+secrets.js
+
 # generated files
 build/

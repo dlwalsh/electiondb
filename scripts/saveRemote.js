@@ -1,17 +1,19 @@
 /* eslint import/no-extraneous-dependencies: ["error", { "devDependencies": true }] */
 
-import { DynamoDB } from 'aws-sdk';
-import { each } from 'async';
+import mongoose from 'mongoose';
+import ResultSchema from '../db/ResultSchema';
+import { MONGO_URI } from '../secrets';
 
-function saveRemote(data, callback) {
-  const docClient = new DynamoDB.DocumentClient({ region: 'ap-southeast-2' });
+mongoose.Promise = Promise;
 
-  each(data, (item, cb) => {
-    docClient.put({
-      TableName: 'elections',
-      Item: item,
-    }, cb);
-  }, callback);
+function saveRemote(data, commonFields = {}) {
+  const Result = mongoose.model('Result', ResultSchema);
+
+  return mongoose.connect(MONGO_URI).then(
+    () => Result.remove(commonFields),
+  ).then(
+    () => Result.insertMany(data),
+  );
 }
 
 export default saveRemote;

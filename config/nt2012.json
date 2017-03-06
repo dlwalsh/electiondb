@@ -16,5 +16,6 @@
     "votes": "{Votes}"
   },
   "informalCode": "INF",
-  "exhaustedCode": "EXH"
+  "exhaustedCode": "EXH",
+  "truthyValue": "Y"
 }

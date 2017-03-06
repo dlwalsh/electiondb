@@ -19,7 +19,8 @@
 
       return {
         TableName: tableName,
-        FilterExpression: filters.join(' AND '),
+        KeyConditionExpression: '#realm = :realm',
+        FilterConditionExpression: filters.join(' AND '),
         ExpressionAttributeNames: attributeNames,
         ExpressionAttributeValues: attributeValues,
       };
@@ -30,7 +31,7 @@
       const params = constructParams(tableName, fields);
 
       return new Promise((resolve, reject) => {
-        docClient.scan(params, (err, data) => {
+        docClient.query(params, (err, data) => {
           if (err) {
             reject(err);
           } else {

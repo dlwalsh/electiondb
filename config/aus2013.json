@@ -1,11 +1,11 @@
 {
-  "primaryDataFile": "data/aus2016_primary.csv",
-  "runoffDataFile": "data/aus2016_2cp.csv",
+  "primaryDataFile": "data/aus2013_primary.csv",
+  "runoffDataFile": "data/aus2013_2cp.csv",
   "commonInfo": {
     "chamber": "hor",
-    "date": "2016-07-02",
+    "date": "2013-09-07",
     "electionType": "general",
-    "parliament": 45,
+    "parliament": 44,
     "realm": "aus",
     "vacancies": 1
   },

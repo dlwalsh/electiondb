@@ -25,11 +25,12 @@ const {
   keyMap,
   primaryDataFile,
   runoffDataFile,
+  truthyValue,
 } = config;
 
 parallel({
-  primaryData: cb => parseData(primaryDataFile, keyMap, cb),
-  runoffData: cb => parseData(runoffDataFile, keyMap, cb),
+  primaryData: cb => parseData(primaryDataFile, { keyMap, truthyValue }, cb),
+  runoffData: cb => parseData(runoffDataFile, { keyMap, truthyValue }, cb),
 }, (error, { primaryData, runoffData }) => {
   if (error) {
     console.error(error);
@@ -47,7 +48,7 @@ parallel({
       .filter(x => x.electorateName === electorateName)
       .map(omit('electorateName'));
     const [[spoilt], primary] = partition(x => x.party === informalCode)(ballotsCast);
-    const [[spent], runoff] = partition(x => x.party === exhaustedCode)(ballotsDistributed);
+    const [, runoff] = partition(x => x.party === exhaustedCode)(ballotsDistributed);
 
     return {
       electionType: commonInfo.electionType,
@@ -64,11 +65,14 @@ parallel({
     };
   });
 
-  saveRemote(entries, (err) => {
-    if (err) {
-      console.error(err);
-    } else {
-      console.log('Entries saved to database');
-    }
+  saveRemote(entries, {
+    electionType: commonInfo.electionType,
+    realm: commonInfo.realm,
+    chamber: commonInfo.chamber,
+    parliament: commonInfo.parliament,
+  }).then(() => {
+    console.log('Entries saved to database');
+  }, (err) => {
+    console.error(err);
   });
 });

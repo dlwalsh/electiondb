@@ -5,8 +5,12 @@ import {
   GraphQLSchema,
   GraphQLString,
 } from 'graphql';
+import mongoose from 'mongoose';
 import ResultType from './ResultType';
-import query from '../query';
+import ResultSchema from '../db/ResultSchema';
+
+mongoose.Promise = Promise;
+const Result = mongoose.model('Result', ResultSchema);
 
 const schema = new GraphQLSchema({
   query: new GraphQLObjectType({
@@ -35,7 +39,7 @@ const schema = new GraphQLSchema({
           },
         },
         resolve(root, args) {
-          return query('elections', args);
+          Result.find(args);
         },
       },
     },

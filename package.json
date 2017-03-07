@@ -3,18 +3,15 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "AWS_PROFILE=electiondb babel-node server.js",
+    "start": "babel-node server.js",
     "wipe": "rm -rf index.zip build/",
-    "deploy:compile": "babel index.js query.js schema/* --out-dir build/",
-    "deploy:lib": "cd build && yarn add graphql",
-    "deploy:zip": "rm -f index.zip && cd build && zip -r -X ../index.zip *",
-    "deploy:transfer": "AWS_PROFILE=adminuser aws lambda update-function-code --function-name electiondb --zip-file fileb://index.zip",
-    "deploy": "yarn deploy:compile && yarn deploy:lib && yarn deploy:zip && yarn deploy:transfer"
+    "deploy:compile": "babel index.js schema/* --out-dir build/"
   },
   "repository": {},
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.9.0",
+    "express": "^4.15.2",
+    "express-graphql": "^0.6.3",
     "graphql": "^0.9.1",
     "mongoose": "^4.8.5"
   },

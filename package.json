@@ -4,8 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "babel-node server.js",
-    "wipe": "rm -rf index.zip build/",
-    "deploy:compile": "babel index.js schema/* --out-dir build/"
+    "compile": "babel server.js graphql-schema/* mongoose-schema/* --out-dir build/"
   },
   "repository": {},
   "license": "MIT",

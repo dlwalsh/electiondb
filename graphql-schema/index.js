@@ -7,7 +7,7 @@ import {
 } from 'graphql';
 import mongoose from 'mongoose';
 import ResultType from './ResultType';
-import ResultSchema from '../db/ResultSchema';
+import ResultSchema from '../mongoose-schema/ResultSchema';
 import { MONGO_URI } from '../secrets';
 
 mongoose.Promise = global.Promise;

@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "babel-node server.js",
-    "compile": "babel server.js graphql-schema/* mongoose-schema/* --out-dir dist/"
+    "compile": "babel server.js secrets.js graphql-schema/* mongoose-schema/* --out-dir dist/"
   },
   "repository": {},
   "license": "MIT",

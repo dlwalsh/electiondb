@@ -11,7 +11,7 @@ import { writeFile } from 'fs';
 import { resolve as pathResolve } from 'path';
 import requestPromise from 'request-promise';
 
-const year = process.argv[2] || '2014';
+const year = '2014';
 const prefix = 'http://www.ecsa.sa.gov.au';
 const landingUrl = `${prefix}/elections/state-elections/past-state-election-results`;
 

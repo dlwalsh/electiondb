@@ -63,3 +63,6 @@ secrets.js
 # generated files
 build/
 dist/
+
+# debugging
+*.out

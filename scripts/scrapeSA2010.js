@@ -29,10 +29,6 @@ function getNumber(text) {
 function getPortAdelaideHack() {
   const meta = {
     district: 'Port Adelaide',
-    formal: 21732,
-    informal: 767,
-    total: 22499,
-    enrolment: 24141,
   };
   const primary = [{
     name: 'LAWRIE, Sue',
@@ -54,6 +50,10 @@ function getPortAdelaideHack() {
     name: 'BOLAND, Marie',
     party: 'GRN',
     votes: 1368,
+  }, {
+    name: 'Informal votes',
+    party: 'INF',
+    votes: 21732,
   }];
   const runoff = [{
     name: 'LAWRIE, Sue',
@@ -78,10 +78,6 @@ function csvEncode(data) {
       name: 'Candidate',
       party: 'Party',
       votes: 'Votes',
-      formal: 'Formal votes',
-      informal: 'Informal votes',
-      total: 'Total votes',
-      enrolment: 'Enrolment',
     },
     header: true,
   }, (err, output) => {
@@ -147,15 +143,16 @@ requestPromise(landingUrl).then((html) => {
         party: $(row).getCellText(1),
         votes: getNumber($(row).getCellText(2)),
         district,
-        formal,
-        informal,
-        total,
-        enrolment,
       })).toArray()
     ));
 
     return {
-      primary: [...memo.primary, ...primary],
+      primary: [...memo.primary, ...primary, {
+        name: 'Informal votes',
+        party: 'INF',
+        votes: informal,
+        district,
+      }],
       runoff: [...memo.runoff, ...runoff],
     };
   }, {

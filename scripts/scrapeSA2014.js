@@ -33,10 +33,6 @@ function csvEncode(data) {
       name: 'Candidate',
       party: 'Party',
       votes: 'Votes',
-      formal: 'Formal votes',
-      informal: 'Informal votes',
-      total: 'Total votes',
-      enrolment: 'Enrolment',
     },
     header: true,
   }, (err, output) => {
@@ -74,24 +70,21 @@ requestPromise(landingUrl).then((html) => {
     );
 
     const [primary, runoff] = tables.toArray().map(table => (
-      $(table).find('tbody > tr:not(.summary)').map((j, row) => {
-        const votes = getNumber($(row).getCellText(4));
-
-        return {
-          name: $(row).getCellText(0),
-          party: $(row).getCellText(1),
-          votes,
-          district,
-          formal,
-          informal,
-          total,
-          enrolment,
-        };
-      }).toArray()
+      $(table).find('tbody > tr:not(.summary)').map((j, row) => ({
+        name: $(row).getCellText(0),
+        party: $(row).getCellText(1),
+        votes: getNumber($(row).getCellText(4)),
+        district,
+      })).toArray()
     ));
 
     return {
-      primary: [...memo.primary, ...primary],
+      primary: [...memo.primary, ...primary, {
+        name: 'Informal votes',
+        party: 'INF',
+        votes: informal,
+        district,
+      }],
       runoff: [...memo.runoff, ...runoff],
     };
   }, {

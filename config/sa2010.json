@@ -1,0 +1,21 @@
+{
+  "primaryDataFile": "data/sa2010_primary.csv",
+  "runoffDataFile": "data/sa2010_2cp.csv",
+  "commonInfo": {
+    "chamber": "hoa",
+    "date": "2010-03-20",
+    "electionType": "general",
+    "parliament": 52,
+    "realm": "sa",
+    "vacancies": 1
+  },
+  "keyMap": {
+    "name": "{Candidate}",
+    "electorateName": "{District}",
+    "party": "{Party}",
+    "votes": "{Votes}"
+  },
+  "informalCode": "INF",
+  "exhaustedCode": "",
+  "truthyValue": "Y"
+}

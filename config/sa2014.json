@@ -1,0 +1,21 @@
+{
+  "primaryDataFile": "data/sa2014_primary.csv",
+  "runoffDataFile": "data/sa2014_2cp.csv",
+  "commonInfo": {
+    "chamber": "hoa",
+    "date": "2014-03-15",
+    "electionType": "general",
+    "parliament": 53,
+    "realm": "sa",
+    "vacancies": 1
+  },
+  "keyMap": {
+    "name": "{Candidate}",
+    "electorateName": "{District}",
+    "party": "{Party}",
+    "votes": "{Votes}"
+  },
+  "informalCode": "INF",
+  "exhaustedCode": "",
+  "truthyValue": "Y"
+}

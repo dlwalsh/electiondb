@@ -40,7 +40,7 @@ parallel({
   const entries = uniq(
     primaryData.map(x => x.electorateName),
   ).map((electorateName) => {
-    const electorateId = electorateName.toLowerCase().replace(/\s+/g, '_');
+    const electorateId = electorateName.toLowerCase().replace(/\s+/g, '-');
     const ballotsCast = primaryData
       .filter(x => x.electorateName === electorateName)
       .map(omit('electorateName'));

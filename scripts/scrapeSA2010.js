@@ -6,10 +6,10 @@
 */
 
 import { load } from 'cheerio';
-import { stringify as csvStringify } from 'csv';
 import { writeFile } from 'fs';
 import { resolve as pathResolve } from 'path';
 import requestPromise from 'request-promise';
+import csvEncode from '../utils/csvEncode';
 
 const year = '2010';
 const prefix = 'http://www.ecsa.sa.gov.au';
@@ -69,24 +69,6 @@ function getPortAdelaideHack() {
     primary: primary.map(candidate => Object.assign({}, meta, candidate)),
     runoff: runoff.map(candidate => Object.assign({}, meta, candidate)),
   };
-}
-
-function csvEncode(data) {
-  return new Promise((resolve, reject) => csvStringify(data, {
-    columns: {
-      district: 'District',
-      name: 'Candidate',
-      party: 'Party',
-      votes: 'Votes',
-    },
-    header: true,
-  }, (err, output) => {
-    if (err) {
-      reject(err);
-    } else {
-      resolve(output);
-    }
-  }));
 }
 
 requestPromise(landingUrl).then((html) => {

@@ -28,33 +28,51 @@ requestPromise(`${prefix}/Summary.html`).then((html) => {
     const district = $('.breadcrumb-page').text().replace(/ District$/, '');
     const informal = $('th:contains("Informal Votes") + td').text().trim().replace(/ \(.*$/, '');
 
-    const candidates = $('table[title="First preference votes"] > tbody > tr').toArray().slice(0, -1).map((row) => {
-      const cells = $(row).find('td');
+    const [primary, runoff] = [
+      $('table[title="First preference votes"]'),
+      $('table[title="Results after distribution of preferences"]'),
+    ].map((table) => {
+      return table.find('tbody > tr').toArray().slice(0, -1).map((row) => {
+        const cells = $(row).find('td');
 
-      return {
-        name: cells.eq(0).text(),
-        party: cells.eq(1).text().trim(),
-        votes: cells.eq(2).text(),
-        district,
-      };
+        return {
+          name: cells.eq(0).text(),
+          party: cells.eq(1).text().trim(),
+          votes: cells.eq(2).text(),
+          district,
+        };
+      });
     });
 
-    return [...memo, ...candidates, {
-      name: 'Informal votes',
-      party: 'INF',
-      votes: informal,
-      district,
-    }];
-  }, []);
-}).then((results) => {
-  return csvEncode(results);
-}).then((content) => {
-  const fileName = pathResolve(__dirname, '../data/vic2014_primary.csv');
-  return writeFile(fileName, content, (err) => {
+    return {
+      primary: [...memo.primary, ...primary, {
+        name: 'Informal votes',
+        party: 'INF',
+        votes: informal,
+        district,
+      }],
+      runoff: [...memo.runoff, ...runoff],
+    };
+  }, { primary: [], runoff: [] });
+}).then(({ primary, runoff }) => {
+  return Promise.all([
+    csvEncode(primary),
+    csvEncode(runoff),
+  ]);
+}).then(([primaryContent, runoffContent]) => {
+  const primaryFileName = pathResolve(__dirname, '../data/vic2014_primary.csv');
+  const runoffFileName = pathResolve(__dirname, '../data/vic2014_2cp.csv');
+  writeFile(primaryFileName, primaryContent, (err) => {
     if (err) {
       throw err;
     }
-    console.log(`Written to ${fileName}`);
+    console.log(`Written to ${primaryFileName}`);
+  });
+  writeFile(runoffFileName, runoffContent, (err) => {
+    if (err) {
+      throw err;
+    }
+    console.log(`Written to ${runoffFileName}`);
   });
 }).catch((error) => {
   console.error(error);

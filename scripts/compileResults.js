@@ -4,7 +4,7 @@
 */
 
 import { parallel } from 'async';
-import { omit, partition, uniq } from 'lodash/fp';
+import { filter, find, flow, map, omit, partition, uniq } from 'lodash/fp';
 import { readFileSync } from 'fs';
 import parseData from './parseData';
 import saveRemote from './saveRemote';
@@ -41,14 +41,14 @@ parallel({
     primaryData.map(x => x.electorateName),
   ).map((electorateName) => {
     const electorateId = electorateName.toLowerCase().replace(/\s+/g, '-');
-    const ballotsCast = primaryData
-      .filter(x => x.electorateName === electorateName)
-      .map(omit('electorateName'));
-    const ballotsDistributed = runoffData
-      .filter(x => x.electorateName === electorateName)
-      .map(omit('electorateName'));
-    const [[spoilt], primary] = partition(x => x.party === informalCode)(ballotsCast);
-    const [, runoff] = partition(x => x.party === exhaustedCode)(ballotsDistributed);
+    const getCandidates = flow([
+      filter({ electorateName }),
+      map(omit('electorateName')),
+    ]);
+    const ballotsCast = getCandidates(primaryData);
+    const ballotsDistributed = getCandidates(runoffData);
+    const [[spoilt], primary] = partition({ party: informalCode })(ballotsCast);
+    const runoff = find({ party: exhaustedCode })(ballotsDistributed);
 
     return {
       electionType: commonInfo.electionType,

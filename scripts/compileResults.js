@@ -9,6 +9,8 @@ import { readFileSync } from 'fs';
 import parseData from './parseData';
 import saveRemote from './saveRemote';
 
+const uniqMap = field => flow(map(field), uniq);
+
 let config;
 
 try {
@@ -37,9 +39,9 @@ parallel({
     process.exit(1);
   }
 
-  const entries = uniq(
-    primaryData.map(x => x.electorateName),
-  ).map((electorateName) => {
+  const electorates = uniqMap('electorateName')(primaryData);
+
+  const entries = electorates.map((electorateName) => {
     const electorateId = electorateName.toLowerCase().replace(/\s+/g, '-');
     const getCandidates = flow([
       filter({ electorateName }),

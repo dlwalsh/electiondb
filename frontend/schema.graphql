@@ -1,0 +1,34 @@
+type Query {
+  results(
+    chamber: String
+    electionType: String
+    electorateId: String
+    parliament: Int
+    realm: String
+  ): [Result]
+}
+
+type Result {
+  electorateId: String!
+  electorateName: String!
+  type: String!
+  realm: String!
+  region: String!
+  chamber: String!
+  parliament: Int!
+  date: String!
+  vacancies: Int!
+  enrolment: Int!
+  informal: Int!
+  primary: [Candidate]!
+  runoff: [Candidate]!
+}
+
+type Candidate {
+  name: String!
+  party: String!
+  type: String!
+  votes: Int!
+  incumbent: Boolean!
+  elected: Boolean!
+}
